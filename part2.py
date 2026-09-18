@@ -36,10 +36,19 @@ def process_data():
     # Parse
     for filepath in files:
         with open(filepath, 'r', encoding='utf-8') as f:
-            data = json.load(f)
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+            except json.JSONDecodeError:
+                print(f"Warning: Skipping corrupted file {filepath}")
+                continue
             records = data if isinstance(data, list) else data.get('results', [])
             for record in records:
-                year = int(record['date_started'][:4])
+                date_string = record.get('date_started') or record.get('date_created') or ""
+                if len(date_string) >= 4 and date_string[:4].isdigit():
+                    year = int(date_string[:4])
+                else:
+                    continue
                 if not (start_year <= year <= end_year):
                     continue
 
@@ -198,6 +207,9 @@ def clean_text(text):
     # Upper abd no lead/trail whitespace
     text = text.upper().strip()
 
+    # Apostrophes leave no space
+    text = text.replace("'", "").replace("`", "").replace("’", "")
+
     # Strip not A-Z, 0-9, or space
     text = re.sub(r'[^A-Z0-9 ]', ' ', text)
 
@@ -207,33 +219,13 @@ def clean_text(text):
     # Dupe Handling
     text = re.sub(r'\bDIARRHOEA\b', 'DIARRHEA', text)
     text = re.sub(r'\bHAEMORRHAGE\b', 'HEMORRHAGE', text)
-    text = re.sub(r'\bABDOMINAL PAIN UPPER\b', 'ABDOMINAL PAIN', text)
-    text = re.sub(r'\bABDOMINAL PAIN LOWER\b', 'ABDOMINAL PAIN', text)
     text = re.sub(r'\bVITAMIN D3\b', 'VITAMIN D', text)
     text = re.sub(r'\bVITAMINS\b', 'VITAMIN', text)
     text = re.sub(r'\bMULTIVITAMINS\b', 'MULTIVITAMIN', text)
     text = re.sub(r'\bMULTI VITAMIN\b', 'MULTIVITAMIN', text)
     text = re.sub(r'\bOMEGA 3\b', 'OMEGA3', text)
-    # text = re.sub(r'JIF.*?PEANUT BUTTER', 'JIF PEANUT BUTTER', text)
-    # text = re.sub(r'PETER PAN.*?PEANUT BUTTER', 'PETER PAN PEANUT BUTTER', text)
-    # if text.startswith('OVARIAN CANCER'):
-    #             return 'OVARIAN CANCER'
-    # if text.startswith('PRESERVISION AREDS 2'):
-    #     return 'PRESERVISION AREDS 2'
-    # if text.startswith('HYDROXYCUT'):
-    #     return 'HYDROXYCUT'
-    # if text.startswith('SUPER BETA PROSTATE'):
-    #     return 'SUPER BETA PROSTATE'
-    # if text.startswith('WEN '):
-    #     return 'WEN'
-    # if text.startswith('CENTRUM SILVER WOMEN'):
-    #     return 'CENTRUM SILVER WOMEN S 50'
-    # if text == 'RAW OYSTERS':
-    #     return 'OYSTERS'
-    # if text.startswith('DEVACURL'):
-    #     return 'DEVACURL'
-    # if text.startswith('JIF PEANUT BUTTER'):
-    #     return 'JIF PEANUT BUTTER'
+    text = re.sub(r'\bHOSPITALISATION\b', 'HOSPITALIZATION', text)
+    text = re.sub(r'\bEMERGENCY CARE\b', 'VISITED EMERGENCY ROOM', text)
     return text.strip()
 
 # fractional age
