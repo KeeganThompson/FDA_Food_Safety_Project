@@ -12,6 +12,9 @@ DATA_DIR = './data'
 def process_data():
     start_year, end_year, product_filter = parse_arguments()
 
+    if product_filter:
+        product_filter = clean_text(product_filter)
+
     print(f"Processing data from {start_year} to {end_year} with product filter: {product_filter}")
 
     files = glob.glob(os.path.join(DATA_DIR, '*json'))
@@ -211,24 +214,26 @@ def clean_text(text):
     text = re.sub(r'\bMULTIVITAMINS\b', 'MULTIVITAMIN', text)
     text = re.sub(r'\bMULTI VITAMIN\b', 'MULTIVITAMIN', text)
     text = re.sub(r'\bOMEGA 3\b', 'OMEGA3', text)
-    text = re.sub(r'JIF.*?PEANUT BUTTER', 'JIF PEANUT BUTTER', text)
-    text = re.sub(r'PETER PAN.*?PEANUT BUTTER', 'PETER PAN PEANUT BUTTER', text)
-    if text.startswith('OVARIAN CANCER'):
-                return 'OVARIAN CANCER'
-    if text.startswith('PRESERVISION AREDS 2'):
-        return 'PRESERVISION AREDS 2'
-    if text.startswith('HYDROXYCUT'):
-        return 'HYDROXYCUT'
-    if text.startswith('SUPER BETA PROSTATE'):
-        return 'SUPER BETA PROSTATE'
-    if text.startswith('WEN '):
-        return 'WEN'
-    if text.startswith('CENTRUM SILVER WOMEN'):
-        return 'CENTRUM SILVER WOMEN S 50'
-    if text == 'RAW OYSTERS':
-        return 'OYSTERS'
-    if text.startswith('DEVACURL'):
-        return 'DEVACURL'
+    # text = re.sub(r'JIF.*?PEANUT BUTTER', 'JIF PEANUT BUTTER', text)
+    # text = re.sub(r'PETER PAN.*?PEANUT BUTTER', 'PETER PAN PEANUT BUTTER', text)
+    # if text.startswith('OVARIAN CANCER'):
+    #             return 'OVARIAN CANCER'
+    # if text.startswith('PRESERVISION AREDS 2'):
+    #     return 'PRESERVISION AREDS 2'
+    # if text.startswith('HYDROXYCUT'):
+    #     return 'HYDROXYCUT'
+    # if text.startswith('SUPER BETA PROSTATE'):
+    #     return 'SUPER BETA PROSTATE'
+    # if text.startswith('WEN '):
+    #     return 'WEN'
+    # if text.startswith('CENTRUM SILVER WOMEN'):
+    #     return 'CENTRUM SILVER WOMEN S 50'
+    # if text == 'RAW OYSTERS':
+    #     return 'OYSTERS'
+    # if text.startswith('DEVACURL'):
+    #     return 'DEVACURL'
+    # if text.startswith('JIF PEANUT BUTTER'):
+    #     return 'JIF PEANUT BUTTER'
     return text.strip()
 
 # fractional age
