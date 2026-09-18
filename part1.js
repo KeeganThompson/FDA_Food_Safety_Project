@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
+const CONCURRENCY_LIMIT = 3;
 const START_DATE = '2002-01-01';
 const END_DATE = '2026-01-01';
 const LIMIT_PER_REQUEST = 100;
@@ -9,6 +10,59 @@ const DATA_DIR = path.join(__dirname, 'data');
 if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, {recursive: true}); 
 }
+
+
+async function main() {
+    console.log(`Date Range: ${START_DATE} to ${END_DATE}`);
+    console.log(`Concurrency Limit: ${CONCURRENCY_LIMIT}`);
+
+    const dateChunks = getMonthlyChunks(START_DATE, END_DATE);
+    const downloadTasks = [];
+    
+    // find # of records for each month
+    await processQueue(dateChunks, CONCURRENCY_LIMIT, async (chunk) => {
+        const url = `https://api.fda.gov/food/event.json?search=date_started:[${chunk.start}+TO+${chunk.end}]&limit=1`;
+        const data = await fetchWithRetry(url);
+
+        if (data && data.meta && data.meta.results) {
+            const total = data.meta.results.total;
+
+            // download task for every 100 records
+            for (let skip = 0; skip < total; skip += LIMIT_PER_REQUEST) {
+                downloadTasks.push({
+                    start: chunk.start,
+                    end: chunk.end,
+                    skip: skip
+                });
+            }
+        }
+    });
+
+    console.log(`Downloading`);
+    
+    let completed = 0;
+
+    await processQueue(downloadTasks, CONCURRENCY_LIMIT, async (task) => {
+        const url = `https://api.fda.gov/food/event.json?search=date_started:[${task.start}+TO+${task.end}]&limit=${LIMIT_PER_REQUEST}&skip=${task.skip}`;
+        const data = await fetchWithRetry(url);
+
+        if (data && data.results) {
+            const fileName = `food_events_${task.start}_${task.end}_skip_${task.skip}.json`;
+            const filePath = path.join(DATA_DIR, fileName);
+
+            // save to disk
+            fs.writeFileSync(filePath, JSON.stringify(data.results, null, 2), 'utf-8');
+
+            completed++;
+            if (completed % 25 === 0 || completed === downloadTasks.length) {
+                console.log(`Progress: ${completed} / ${downloadTasks.length} batches downloaded`);
+            }
+        }
+    });
+
+    console.log(`Done, saved to ./data`);
+}
+
 
 // Process array of tasks with concurrency limit
 async function processQueue(tasks, concurrencyLimit, processor) {
