@@ -1,0 +1,3160 @@
+[
+  {
+    "report_number": "2022-CFS-009374",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220607",
+    "reactions": [
+      "Diarrhoea",
+      "Nausea",
+      "Vomiting"
+    ],
+    "date_started": "20220607",
+    "consumer": {
+      "age": "15",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009992",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Vomiting"
+    ],
+    "date_started": "20220620",
+    "consumer": {
+      "age": "12",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KELLOGGS POP-TARTS FROSTED S'MORES",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009366",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20220607",
+    "reactions": [
+      "Fatigue",
+      "Headache",
+      "Nausea",
+      "Salmonellosis",
+      "Somnolence"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "60.9",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010146",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220624",
+    "reactions": [
+      "Chills",
+      "Chromaturia",
+      "Myalgia",
+      "Pyrexia",
+      "Rash generalised"
+    ],
+    "date_started": "20220615",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-003730",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220628",
+    "reactions": [
+      "Decreased appetite",
+      "Diarrhoea",
+      "Jaundice",
+      "Nausea",
+      "Pyrexia"
+    ],
+    "date_started": "20220609",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST LENTILS AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-016291",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Disability"
+    ],
+    "date_created": "20221117",
+    "reactions": [
+      "Emotional disorder of childhood",
+      "Hypersensitivity",
+      "Illness",
+      "Immune system disorder"
+    ],
+    "date_started": "20220606",
+    "consumer": {
+      "age": "65.2",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TWENTY-FOUR PACK DASANI PURIFIED BOTTLE WATER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010062",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20220622",
+    "reactions": [
+      "Sepsis"
+    ],
+    "date_started": "20220610",
+    "consumer": {
+      "age": "35",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SMOOTHIE BOOSTER KIT VIMERGY WILD BLUEBERRY POWDER SPIRULINA POWDER BARLEY GRASS JUICE POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010199",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal discomfort",
+      "Dizziness",
+      "Dyspepsia",
+      "Faeces discoloured",
+      "Fatigue",
+      "Pruritus"
+    ],
+    "date_started": "20220604",
+    "consumer": {
+      "age": "51.2",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "multivitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-008541",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20230814",
+    "reactions": [
+      "Burning sensation",
+      "Skin reaction"
+    ],
+    "date_started": "20220613",
+    "consumer": {
+      "age": "17.3",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JERGENS ULTRA HEALING MOISTURIZER",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010227",
+    "outcomes": [
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Fatigue",
+      "Hepatic pain",
+      "Hepatitis A"
+    ],
+    "date_started": "20220624",
+    "consumer": {
+      "age": "25",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "STRAWBERRIES",
+        "industry_code": "22",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010196",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal discomfort",
+      "Abdominal distension",
+      "Chromaturia",
+      "Fatigue",
+      "Hepatic enzyme increased",
+      "Malaise",
+      "Nausea",
+      "Pyrexia",
+      "Reflux gastritis",
+      "Vomiting"
+    ],
+    "date_started": "20220604",
+    "consumer": {
+      "age": "57",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-013553",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20220901",
+    "reactions": [
+      "Back pain",
+      "Blood urine present",
+      "Kidney infection",
+      "Ocular icterus"
+    ],
+    "date_started": "20220625",
+    "consumer": {
+      "age": "37",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST LEEK AND LENTIL CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010224",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Confusional state",
+      "Dizziness",
+      "Dysarthria",
+      "Dyspnoea",
+      "Tremor"
+    ],
+    "date_started": "20220624",
+    "consumer": {
+      "age": "38",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXHALE DELTA 8 HEMP GUMMIES",
+        "industry_code": "33",
+        "industry_name": "Candy W/O Choc/Special/Chew Gum"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "spirulina",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "probiotic",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Multivitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010308",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal pain upper",
+      "Back pain",
+      "Bacterial test positive",
+      "Blood alkaline phosphatase increased",
+      "Chromaturia",
+      "Dizziness",
+      "Faeces discoloured",
+      "Nausea",
+      "Pain",
+      "Pyrexia"
+    ],
+    "date_started": "20220611",
+    "consumer": {
+      "age": "52.5",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL + LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009552",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220612",
+    "reactions": [
+      "Abdominal discomfort",
+      "Diarrhoea"
+    ],
+    "date_started": "20220609",
+    "consumer": {
+      "age": "36",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENERAL MILLS APPLE CINNAMON CHEERIOS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009609",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220614",
+    "reactions": [
+      "Feeling abnormal"
+    ],
+    "date_started": "20220613",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SHAKEOLOGY CAFE LATTE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010403",
+    "outcomes": [
+      "Disability",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220629",
+    "reactions": [
+      "Chromaturia",
+      "Decreased appetite",
+      "Fatigue",
+      "Hepatic enzyme increased",
+      "Pain"
+    ],
+    "date_started": "20220614",
+    "consumer": {
+      "age": "35",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-014917",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20221011",
+    "reactions": [
+      "Pruritus",
+      "Rash"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "36",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JERGENS ULTRA HEALING MOISTURIZER",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-015005",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20221013",
+    "reactions": [
+      "Diarrhoea",
+      "Rash",
+      "Vomiting"
+    ],
+    "date_started": "20220610",
+    "consumer": {
+      "age": "50",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ULTRAFERTILE PLUS FOR MEN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-006686",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230201",
+    "reactions": [
+      "Fallopian tube cancer",
+      "Ovarian cancer"
+    ],
+    "date_started": "20220628",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-000079",
+    "outcomes": [
+      "Disability",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20230105",
+    "reactions": [
+      "Abdominal distension",
+      "Abdominal pain upper",
+      "Diarrhoea",
+      "Malaise",
+      "Rectal haemorrhage",
+      "Vomiting"
+    ],
+    "date_started": "20220605",
+    "consumer": {
+      "age": "22.4",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010358",
+    "outcomes": [
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220628",
+    "reactions": [
+      "Diarrhoea",
+      "Hyperhidrosis",
+      "Nausea"
+    ],
+    "date_started": "20220628",
+    "consumer": {
+      "age": "44.7",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF TO-GO",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-003676",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220622",
+    "reactions": [
+      "Abdominal pain",
+      "Chest pain",
+      "Dizziness",
+      "Excessive cerumen production",
+      "Gastrooesophageal reflux disease",
+      "Muscle tightness"
+    ],
+    "date_started": "20220616",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTILS AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-003733",
+    "outcomes": [
+      "Visited a Health Care Provider",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220628",
+    "reactions": [
+      "Abdominal pain",
+      "Chromaturia",
+      "Hepatic enzyme increased",
+      "Yellow skin"
+    ],
+    "date_started": "20220618",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK PLUS CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010685",
+    "outcomes": [
+      "Disability",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220707",
+    "reactions": [
+      "Chromaturia",
+      "Hepatic enzyme increased",
+      "Ocular icterus"
+    ],
+    "date_started": "20220608",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Centrum Silver for Women",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-013785",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220908",
+    "reactions": [
+      "Swelling"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "53.2",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "VICTORIA'S SECRET LOVE SPELL SHIMMER",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010066",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220622",
+    "reactions": [
+      "Chromaturia",
+      "Hepatic enzyme increased",
+      "Hyponatraemic syndrome",
+      "Nausea",
+      "Vomiting"
+    ],
+    "date_started": "20220607",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-013426",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20220831",
+    "reactions": [
+      "Chromaturia",
+      "Decreased appetite",
+      "Diarrhoea",
+      "Fatigue",
+      "Headache",
+      "Hepatic enzyme increased",
+      "Jaundice",
+      "Nausea",
+      "Pruritus",
+      "Pyrexia",
+      "Vomiting"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "42",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Multivitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009986",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Back pain",
+      "Chills",
+      "Chromaturia",
+      "Insomnia",
+      "Liver injury",
+      "Pain",
+      "Pruritus",
+      "Pyrexia",
+      "Vomiting"
+    ],
+    "date_started": "20220609",
+    "consumer": {
+      "age": "29",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin d",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011315",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Abdominal pain upper"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "37",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LUCKY CHARMS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "pedialyte",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Tylenol",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Suppositories",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Pepto Bismol",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Kaopectate",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010749",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220708",
+    "reactions": [
+      "Benign prostatic hyperplasia",
+      "Haematuria"
+    ],
+    "date_started": "20220606",
+    "consumer": {
+      "age": "72",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRESERVISION",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010763",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220711",
+    "reactions": [
+      "Crying",
+      "Vomiting"
+    ],
+    "date_started": "20220630",
+    "consumer": {
+      "age": "6",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ENFAMIL NEUROPRO GENTLEASE READY- TO- USE FORMULA",
+        "industry_code": "40P",
+        "industry_name": "Powder Formula INFANT FORMULA"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-004507",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization"
+    ],
+    "date_created": "20230502",
+    "reactions": [
+      "Acute kidney injury",
+      "Dehydration",
+      "Dysphagia",
+      "Hyperglycaemia",
+      "Infection",
+      "Inflammation",
+      "Lipase increased",
+      "Nausea",
+      "Oesophageal disorder",
+      "Pancreatitis necrotising",
+      "Renal impairment",
+      "Type 2 diabetes mellitus",
+      "Vomiting"
+    ],
+    "date_started": "20220702",
+    "consumer": {
+      "age": "50",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GLOBAL FORMULAS BIOHEAT HARDCORE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010137",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220624",
+    "reactions": [
+      "Erection increased",
+      "Palpitations",
+      "Panic attack"
+    ],
+    "date_started": "20220623",
+    "consumer": {
+      "age": "31",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENEX FORMULAS CATUABA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009356",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220606",
+    "reactions": [
+      "Laryngeal injury"
+    ],
+    "date_started": "20220604",
+    "consumer": {
+      "age": "86",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KELLOGG'S EGGO WAFFLE",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009370",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220607",
+    "reactions": [
+      "Salmonellosis"
+    ],
+    "date_started": "20220606",
+    "consumer": {
+      "age": "28",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010232",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Cold sweat",
+      "Diarrhoea",
+      "Nausea",
+      "Vomiting",
+      "Vomiting projectile"
+    ],
+    "date_started": "20220624",
+    "consumer": {
+      "age": "30",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010390",
+    "outcomes": [
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220629",
+    "reactions": [
+      "Abdominal pain",
+      "Chromaturia",
+      "Gallbladder disorder",
+      "Ocular icterus"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010313",
+    "outcomes": [
+      "Disability",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal pain",
+      "Asthenia",
+      "Headache",
+      "Hepatic enzyme increased",
+      "Insomnia",
+      "Nausea",
+      "Pain",
+      "Pyrexia"
+    ],
+    "date_started": "20220608",
+    "consumer": {
+      "age": "52.3",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Multivitamins w/ iron",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Niacinamide",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010457",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220630",
+    "reactions": [
+      "Swollen tongue",
+      "Urticaria"
+    ],
+    "date_started": "20220609",
+    "consumer": {
+      "age": "48",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION APPETITE SUPPORT VEGETARIAN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Seed Prebiotic",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION VEGAN DHA (AS LIFE'S DHA DOCOSAHEXAENOIC ACID) (FROM MICROALGAE OIL)",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION PEPPERMINT PLUS VEGETARIAN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION FOUNDATIONAL MULTIVITAMIN VEGAN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009532",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220612",
+    "reactions": [
+      "Chills",
+      "Diarrhoea",
+      "Fatigue",
+      "Headache",
+      "Muscle spasms",
+      "Pain"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "57.8",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-010225",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230918",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20220623",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011115",
+    "outcomes": [
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220715",
+    "reactions": [
+      "Abdominal pain upper",
+      "Chest pain",
+      "Dyspnoea",
+      "Gallbladder disorder",
+      "Hepatic enzyme increased"
+    ],
+    "date_started": "20220624",
+    "consumer": {
+      "age": "29.3",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST SQUASH AND WILD RICE GRATIN",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010447",
+    "outcomes": [
+      "Visited a Health Care Provider",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220629",
+    "reactions": [
+      "Abdominal pain",
+      "Alanine aminotransferase increased",
+      "Cold sweat",
+      "Fatigue",
+      "Feeling abnormal",
+      "Feeling hot",
+      "Headache",
+      "Hepatic enzyme increased",
+      "Hepatitis",
+      "Insomnia",
+      "Myalgia",
+      "Nausea"
+    ],
+    "date_started": "20220616",
+    "consumer": {
+      "age": "35.6",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "whey protein",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST SMOOTIE WITH PROTEIN POWDER",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009666",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220615",
+    "reactions": [
+      "Abdominal distension",
+      "Chest discomfort",
+      "Constipation",
+      "Dyspnoea",
+      "Headache"
+    ],
+    "date_started": "20220615",
+    "consumer": {
+      "age": "21",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LISHOU SLIMMING INSTANT COFFEE",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010461",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220630",
+    "reactions": [
+      "Alanine aminotransferase increased",
+      "Aspartate aminotransferase increased",
+      "Blood alkaline phosphatase increased",
+      "Blood bilirubin increased",
+      "Blood test abnormal",
+      "Chromaturia",
+      "Dizziness",
+      "Malaise",
+      "Pyrexia"
+    ],
+    "date_started": "20220617",
+    "consumer": {
+      "age": "41",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST CRUMBLES LEEK AND LENTILS",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-008136",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220617",
+    "reactions": [
+      "Abdominal pain",
+      "Body temperature fluctuation",
+      "Food poisoning",
+      "Malaise",
+      "Nausea",
+      "Vomiting"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "68",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "RED SNAPPER HEAD",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-013819",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20220830",
+    "reactions": [
+      "Dyspnoea",
+      "Pharyngeal oedema",
+      "Urticaria"
+    ],
+    "date_started": "20220608",
+    "consumer": {
+      "age": "53",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LIFEVANTAGE PROTANDIM NRF 1 SYNERGIZER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Probio",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Omega+",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "LIFEVANTAGE PROTANDIM NRF 2 SYNERGIZER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010714",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20220708",
+    "reactions": [
+      "Chromaturia",
+      "Hepatic enzyme increased",
+      "Nausea",
+      "Pruritus",
+      "Pyrexia",
+      "Yellow skin"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "38",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010011",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Loss of consciousness"
+    ],
+    "date_started": "20220607",
+    "consumer": {
+      "age": "44",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION APPETITE SUPPORT",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION VEGAN DHA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION TURMERIC",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION HERBAL REST",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION GOOD NIGHT",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION FOUNDATIONAL MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION DAILY PROBIOTIC",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PERSONA NUTRITION CORDYCEPS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009608",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220613",
+    "reactions": [
+      "Alopecia"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "53",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRACTOR BLACKBERRY BLACK TEA",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010848",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20220712",
+    "reactions": [
+      "Abdominal pain",
+      "Headache",
+      "Hepatic enzyme increased",
+      "Nausea"
+    ],
+    "date_started": "20220616",
+    "consumer": {
+      "age": "30",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "postnatal vitamins",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-000032",
+    "outcomes": [
+      "Life Threatening",
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230103",
+    "reactions": [
+      "Abdominal distension",
+      "Acute hepatic failure",
+      "Arthralgia",
+      "Blood bilirubin increased",
+      "Chromaturia",
+      "Diaphragmalgia",
+      "Dyspepsia",
+      "Headache",
+      "Hepatitis",
+      "Hyperhidrosis",
+      "Lethargy",
+      "Liver disorder",
+      "Myalgia",
+      "Pyrexia",
+      "Renal pain",
+      "Vertigo"
+    ],
+    "date_started": "20220610",
+    "consumer": {
+      "age": "52.8",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010757",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220710",
+    "reactions": [
+      "Malaise",
+      "Nausea"
+    ],
+    "date_started": "20220630",
+    "consumer": {
+      "age": "72",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NATURE MADE SAM-E ADVANCED",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010943",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20220713",
+    "reactions": [
+      "Cheilitis",
+      "Oral discomfort"
+    ],
+    "date_started": "20220701",
+    "consumer": {
+      "age": "39",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EOS EVOLUTION OF SMOOTH ORGANIC SWEET MINT",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009951",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Asthenia",
+      "Bedridden",
+      "Decreased appetite",
+      "Dizziness",
+      "Euphoric mood",
+      "Headache",
+      "Insomnia",
+      "Nausea",
+      "Tremor",
+      "Vomiting"
+    ],
+    "date_started": "20220618",
+    "consumer": {
+      "age": "72.6",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LEGACY BY SMITH NURSERY  DELTA 8 GUMMY",
+        "industry_code": "33",
+        "industry_name": "Candy W/O Choc/Special/Chew Gum"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin B12",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Multi vitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010145",
+    "outcomes": [
+      "Required Intervention",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220622",
+    "reactions": [
+      "Decreased appetite",
+      "Depression",
+      "Drug withdrawal syndrome",
+      "Pain",
+      "Swelling",
+      "Weight increased"
+    ],
+    "date_started": "20220609",
+    "consumer": {
+      "age": "64",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ARTRI KING",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-009129",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230525",
+    "reactions": [
+      "Death",
+      "Hallucination"
+    ],
+    "date_started": "20220701",
+    "consumer": {
+      "age": "37",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "STAR KRATOM KRATOM CAPSULES GREEN DRAGON",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010007",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Abdominal pain upper",
+      "Diarrhoea",
+      "Dizziness",
+      "Fatigue"
+    ],
+    "date_started": "20220618",
+    "consumer": {
+      "age": "28",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOSIE'S ORGANIC FRESH GREENS",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-001667",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220708",
+    "reactions": [
+      "Diarrhoea",
+      "Vomiting"
+    ],
+    "date_started": "20220701",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BLACK BEAR POTATO SALAD WITHOUT EGGS",
+        "industry_code": "39",
+        "industry_name": "Prep Salad Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-015042",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20221013",
+    "reactions": [
+      "Alopecia",
+      "Pain of skin"
+    ],
+    "date_started": "20220615",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "OLAPEX 3",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "OLAPEX 5",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "OLAPEX 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011038",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220714",
+    "reactions": [
+      "Abdominal pain",
+      "Gallbladder disorder",
+      "Hepatic enzyme increased",
+      "Pyrexia"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010074",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220623",
+    "reactions": [
+      "Abdominal pain upper",
+      "Back pain",
+      "Chills",
+      "Hepatitis A",
+      "Liver function test abnormal",
+      "Nausea",
+      "Pyrexia"
+    ],
+    "date_started": "20220604",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010198",
+    "outcomes": [
+      "Visited a Health Care Provider",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal pain",
+      "Back pain",
+      "Chromaturia",
+      "Decreased appetite",
+      "Eructation",
+      "Gastrooesophageal reflux disease",
+      "Hepatic enzyme increased",
+      "Lethargy",
+      "Nausea",
+      "Ocular hyperaemia",
+      "Ocular icterus",
+      "Pruritus",
+      "Weight decreased"
+    ],
+    "date_started": "20220604",
+    "consumer": {
+      "age": "56",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-016734",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20221128",
+    "reactions": [
+      "Death",
+      "Fatigue",
+      "Gastrointestinal haemorrhage",
+      "Headache",
+      "Pain",
+      "Pyrexia"
+    ],
+    "date_started": "20220626",
+    "consumer": {
+      "age": "36",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GOLD ZEN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010102",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20220623",
+    "reactions": [
+      "Abdominal pain",
+      "Back pain",
+      "Fatigue",
+      "Hepatic enzyme increased",
+      "Nausea"
+    ],
+    "date_started": "20220616",
+    "consumer": {
+      "age": "36.1",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Prenatal vitamin (rarely)",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010099",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220623",
+    "reactions": [
+      "Asthenia",
+      "Diarrhoea",
+      "Malaise",
+      "Tremor",
+      "Vomiting"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "51",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF TO GO CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Multivitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010155",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220624",
+    "reactions": [
+      "Abdominal distension",
+      "Abdominal pain upper",
+      "Diarrhoea",
+      "Flatulence",
+      "Malaise",
+      "Vomiting projectile"
+    ],
+    "date_started": "20220614",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENERAL MILLS CHEERIOS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-005585",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20221103",
+    "reactions": [
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "51",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-006624",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230125",
+    "reactions": [
+      "Fallopian tube cancer"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010185",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal distension",
+      "Abdominal pain upper",
+      "Chest pain",
+      "Chills",
+      "Diarrhoea",
+      "Dizziness",
+      "Headache",
+      "Nausea",
+      "Palpitations",
+      "Pruritus"
+    ],
+    "date_started": "20220624",
+    "consumer": {
+      "age": "28",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST WALNUT THYME CRUMBLES",
+        "industry_code": "18",
+        "industry_name": "Vegetable Protein Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011480",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220725",
+    "reactions": [
+      "Choking"
+    ],
+    "date_started": "20220701",
+    "consumer": {
+      "age": "79",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CITRACAL MAXIMUM",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009417",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220608",
+    "reactions": [
+      "Dehydration",
+      "Diarrhoea",
+      "Hypersensitivity",
+      "Nausea",
+      "Pruritus",
+      "Swelling",
+      "Vomiting"
+    ],
+    "date_started": "20220606",
+    "consumer": {
+      "age": "29",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009653",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220614",
+    "reactions": [
+      "Malaise"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "10",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ABOOTT SIMILAC ADVANCE",
+        "industry_code": "40P",
+        "industry_name": "Powder Formula INFANT FORMULA"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011471",
+    "outcomes": [
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220725",
+    "reactions": [
+      "Abdominal pain",
+      "Cholelithiasis"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "55",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST MEAL CONTAINING TARA FLOUR",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Essential oils",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010515",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220701",
+    "reactions": [
+      "Abdominal discomfort",
+      "Diarrhoea"
+    ],
+    "date_started": "20220628",
+    "consumer": {
+      "age": "55.6",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENERAL MILLS LUCKY CHARMS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-001815",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20230217",
+    "reactions": [
+      "Alopecia",
+      "Blister"
+    ],
+    "date_started": "20220612",
+    "consumer": {
+      "age": "51",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "OLAPLEX NO3 HAIR PERFECTOR",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009363",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220606",
+    "reactions": [
+      "Foreign body"
+    ],
+    "date_started": "20220604",
+    "consumer": {
+      "age": "49",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TASTY BITE ORGANIC INDIAN MADRES LENTILS",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010236",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Chest discomfort",
+      "Thirst",
+      "Throat tightness"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "43",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NATURELO BONE STRENGTH PLANT-BASED CALCIUM",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010141",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220624",
+    "reactions": [
+      "Asthenia",
+      "Diarrhoea",
+      "Headache",
+      "Nausea"
+    ],
+    "date_started": "20220622",
+    "consumer": {
+      "age": "77",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DOLE SLICED PEACHES",
+        "industry_code": "21",
+        "industry_name": "Fruit/Fruit Prod"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "tylenol",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011788",
+    "outcomes": [
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20220729",
+    "reactions": [
+      "Gallbladder disorder",
+      "Hepatic enzyme increased",
+      "Pain",
+      "Vomiting",
+      "White blood cell count increased"
+    ],
+    "date_started": "20220625",
+    "consumer": {
+      "age": "42",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "REVIVE SUPERFOODS MANGO AND PINEAPPLE",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010194",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal pain upper",
+      "Chills",
+      "Fatigue",
+      "Headache",
+      "Nausea",
+      "Pyrexia",
+      "Vomiting"
+    ],
+    "date_started": "20220613",
+    "consumer": {
+      "age": "52",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL AND LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Progesterone Micro",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Multivitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010208",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal discomfort",
+      "Hepatic enzyme increased",
+      "Hepatic pain",
+      "Liver disorder",
+      "Nausea",
+      "Peritonitis"
+    ],
+    "date_started": "20220620",
+    "consumer": {
+      "age": "50",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST LENTIL AND CREMINI",
+        "industry_code": "38",
+        "industry_name": "Soup"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST LENTIL AND TOMATO BOLOGNESE",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST LENTIL AND MESQUITE CHILI",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010317",
+    "outcomes": [
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Astrovirus test positive"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "9",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010222",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal pain upper",
+      "Diarrhoea"
+    ],
+    "date_started": "20220623",
+    "consumer": {
+      "age": "51",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LUCKY CHARMS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010189",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20220627",
+    "reactions": [
+      "Abdominal distension",
+      "Back pain",
+      "Diarrhoea",
+      "Dyspepsia",
+      "Headache"
+    ],
+    "date_started": "20220621",
+    "consumer": {
+      "age": "35.7",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL PLUS LEEK CRUMBLE",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-007093",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230316",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20220701",
+    "consumer": {
+      "age": "50",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009695",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220615",
+    "reactions": [
+      "Foreign body"
+    ],
+    "date_started": "20220608",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CENTRUM SILVER ADULTS 50+",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010356",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20220628",
+    "reactions": [
+      "Back pain",
+      "Blood urine present",
+      "Nephrolithiasis",
+      "Stag horn calculus",
+      "Urinary tract infection"
+    ],
+    "date_started": "20220627",
+    "consumer": {
+      "age": "46",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUNOL TURMERIC ADVANCED ABSORPTION",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003262",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220705",
+    "reactions": [
+      "Diarrhoea",
+      "Pyrexia",
+      "Salmonellosis",
+      "Vomiting"
+    ],
+    "date_started": "20220605",
+    "consumer": {
+      "age": "10",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "GERBER GOOD START GENTLEPRO",
+        "industry_code": "40P",
+        "industry_name": "Powder Formula INFANT FORMULA"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "NESTLE NESTUM CEREAL",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010412",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220628",
+    "reactions": [
+      "Headache",
+      "Pyrexia",
+      "Rash",
+      "Swelling"
+    ],
+    "date_started": "20220622",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CAMPBELL'S CONDENSED TOMATO SOUP",
+        "industry_code": "38",
+        "industry_name": "Soup"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009835",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20220617",
+    "reactions": [
+      "Burning sensation",
+      "Pain"
+    ],
+    "date_started": "20220613",
+    "consumer": {
+      "age": "56",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SECRET DRY SPRAY",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-015046",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20221013",
+    "reactions": [
+      "Abdominal discomfort",
+      "Abdominal pain",
+      "Back pain",
+      "Chromaturia",
+      "Hepatic enzyme increased"
+    ],
+    "date_started": "20220611",
+    "consumer": {
+      "age": "33",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL + LEEK",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Klaire Labs Prenatal and Nursing multivitamin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010451",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220629",
+    "reactions": [
+      "Diarrhoea",
+      "Malaise",
+      "Nausea",
+      "Vomiting"
+    ],
+    "date_started": "20220628",
+    "consumer": {
+      "age": "39",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENERAL MILLS HONEY NUT CHERRIORS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-016025",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20221108",
+    "reactions": [
+      "Discomfort",
+      "Limb injury",
+      "Pain in extremity",
+      "Tenderness"
+    ],
+    "date_started": "20220610",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ELLIOTT'S FINE NUTRITION HEALTHY NAILS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "vitamins A",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin C",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Raw honey",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Green tea",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Biotin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Benadryl",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Acidophilus Probiotic",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-010460",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20220630",
+    "reactions": [
+      "Abdominal pain upper",
+      "Diarrhoea"
+    ],
+    "date_started": "20220613",
+    "consumer": {
+      "age": "11.7",
+      "age_unit": "year(s)"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENERAL MILLS LUCKY CHARMS",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009938",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Diarrhoea"
+    ],
+    "date_started": "20220603",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF TO GO PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-012101",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20220804",
+    "reactions": [
+      "Abdominal pain upper",
+      "Bedridden",
+      "Malaise"
+    ],
+    "date_started": "20220618",
+    "consumer": {
+      "age": "31",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST COLDBREW ALMOND SMOOTHIE",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST MINT PLUS CACAO SMOOTHIE",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST TOMATO BASIL FLATBREAD",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009969",
+    "outcomes": [
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Abdominal distension",
+      "Abdominal pain",
+      "Back pain",
+      "Blood urine present",
+      "Chills",
+      "Nausea",
+      "Pain",
+      "Pyrexia"
+    ],
+    "date_started": "20220609",
+    "consumer": {
+      "age": "31",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAILY HARVEST FRENCH LENTIL PLUS LEEK CRUMBLES",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-009983",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220621",
+    "reactions": [
+      "Abdominal pain upper",
+      "Chromaturia",
+      "Headache",
+      "Hepatic enzyme increased",
+      "Lethargy",
+      "Pyrexia"
+    ],
+    "date_started": "20220619",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CRUMBLES FRENCH LENTIL + LEEK",
+        "industry_code": "18",
+        "industry_name": "Vegetable Protein Prod"
+      }
+    ]
+  }
+]

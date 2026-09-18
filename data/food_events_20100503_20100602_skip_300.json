@@ -1,0 +1,160 @@
+[
+  {
+    "report_number": "126771",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20100525",
+    "reactions": [
+      "BLOOD SODIUM DECREASED",
+      "DISORIENTATION",
+      "FEAR",
+      "HYPOAESTHESIA",
+      "PANIC ATTACK"
+    ],
+    "date_started": "20100519",
+    "consumer": {
+      "age": "70",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NUTRISYSTEM SILVER DIET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "127149",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100512",
+    "reactions": [
+      "HEADACHE",
+      "Histamine level increased",
+      "PRURITUS",
+      "SKIN DISCOLOURATION"
+    ],
+    "date_started": "20100511",
+    "consumer": {
+      "age": "37",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SASHIMI COMBO (SALMON AND TUNA SASHIMI IN DELI TRAY)",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "126772",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20100524",
+    "reactions": [
+      "GLAUCOMA",
+      "SENSATION OF BLOOD FLOW",
+      "VAGINISMUS"
+    ],
+    "date_started": "20100520",
+    "consumer": {
+      "age": "64",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BEANO FOOD ENZYME DIETARY SUPPLEMENT TABLET (ALPHA-D-GALACTOSIDASE)",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "127244",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100608",
+    "reactions": [
+      "BLISTER",
+      "BURNING SENSATION",
+      "OROPHARYNGEAL BLISTERING"
+    ],
+    "date_started": "20100526",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "INGLEHOFFER THICK-N-CREAMY HORSERADISH",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "126800",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20100528",
+    "reactions": [
+      "CHOKING",
+      "FOREIGN BODY TRAUMA",
+      "RETCHING"
+    ],
+    "date_started": "20100513",
+    "consumer": {
+      "age": "87",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CITRACAL MAXIMUM CAPLETS + D (CALCIUM CITRATE)",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126986",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100602",
+    "reactions": [
+      "DIARRHOEA",
+      "FOOD POISONING"
+    ],
+    "date_started": "20100529",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CYRUS O'LEARY SOUR CREAM LEMON PIE",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  }
+]

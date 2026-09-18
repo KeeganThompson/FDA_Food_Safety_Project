@@ -1,0 +1,1044 @@
+[
+  {
+    "report_number": "2024-CFS-003838",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20240417",
+    "reactions": [
+      "Arthralgia",
+      "Blood glucose decreased",
+      "Dyspnoea",
+      "Hepatic enzyme abnormal",
+      "Hyperhidrosis",
+      "Laboratory test abnormal",
+      "Syncope"
+    ],
+    "date_started": "20240402",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PREVAGEN REGULAR STRENGTH",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "ZINC",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "VITAMIN D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "GREEN SMOOTHIE",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "ELDERBERRY",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "CENTRUM MULTIVITAMIN 50 PLUS GUMMY",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-005128",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240513",
+    "reactions": [
+      "Fall"
+    ],
+    "date_started": "20240331",
+    "consumer": {
+      "age": "88",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS WITH COQ10",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002763",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240308",
+    "reactions": [
+      "Malaise"
+    ],
+    "date_started": "20240307",
+    "consumer": {
+      "age": "45",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ZEPHYRHILLS WATER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002811",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240311",
+    "reactions": [
+      "Abdominal discomfort",
+      "Abdominal pain upper",
+      "Asthenia",
+      "Diarrhoea",
+      "Vomiting"
+    ],
+    "date_started": "20240309",
+    "consumer": {
+      "age": "71",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EARTHBOUND FARMS ORGANIC ROMAINE",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "VITAMINS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "FISH OIL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002693",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240306",
+    "reactions": [
+      "Abdominal discomfort"
+    ],
+    "date_started": "20240305",
+    "consumer": {
+      "age": "42",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MOUTHHAGEN ORGANIC FAIRTRADE INSTANT COFFEE",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002674",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20240306",
+    "reactions": [
+      "Blood cholesterol increased",
+      "Blood pressure increased",
+      "Blood triglycerides increased"
+    ],
+    "date_started": "20240305",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMPLE PROMISE CARDIO CLEAR 7",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003001",
+    "outcomes": [
+      "Life Threatening",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240318",
+    "reactions": [
+      "Diarrhoea",
+      "Illusion",
+      "Vomiting"
+    ],
+    "date_started": "20240316",
+    "consumer": {
+      "age": "35",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SLEKAN NMN 18000 PLUS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002802",
+    "outcomes": [
+      "Life Threatening",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Allergic Reaction"
+    ],
+    "date_created": "20240311",
+    "reactions": [
+      "Hypersensitivity",
+      "Pain",
+      "Urticaria"
+    ],
+    "date_started": "20240307",
+    "consumer": {
+      "age": "14",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "POTASSIUM CHLORIDE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "VITAMIN B-2",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "ONE-A-DAY TEEN VITAMINS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MAGNESIUM CITRATE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "TILLAMOOK MUDSLIDE ICE CREAM",
+        "industry_code": "13",
+        "industry_name": "Ice Cream Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002836",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240311",
+    "reactions": [
+      "Diarrhoea"
+    ],
+    "date_started": "20240310",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FIJI WATER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003135",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20240321",
+    "reactions": [
+      "Foreign body in throat"
+    ],
+    "date_started": "20240315",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CENTRUM SILVER MEN 50 PLUS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002989",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20240318",
+    "reactions": [
+      "Gastrointestinal haemorrhage"
+    ],
+    "date_started": "20240305",
+    "consumer": {
+      "age": "83.7",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ARTRIKING",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "CINNAMON",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "COQ-10",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "FERROUS SULFATE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SLO-NIACIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002850",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Allergic Reaction"
+    ],
+    "date_created": "20240307",
+    "reactions": [
+      "Dyspnoea",
+      "Hypersensitivity"
+    ],
+    "date_started": "20240306",
+    "consumer": {
+      "age": "20",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "STONEWALL KITCHEN GLUTEN FREE CINNAMON SUGAR DOUGHNUT MIX",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002984",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240318",
+    "reactions": [
+      "Choking"
+    ],
+    "date_started": "20240308",
+    "consumer": {
+      "age": "88",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CENTRUM SILVER MEN 50 PLUS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003179",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240322",
+    "reactions": [
+      "Anxiety",
+      "Lethargy",
+      "Nausea",
+      "Nightmare"
+    ],
+    "date_started": "20240322",
+    "consumer": {
+      "age": "34.1",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FULL THROTTLE ORIGINAL CITRUS ENERGY DRINK",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "CRANBERRY JUICE",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003478",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240403",
+    "reactions": [
+      "Pain in extremity"
+    ],
+    "date_started": "20240314",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "COLORADO HONEY BLEND RAW & UNFILTERED LOCAL HIVE COLORADO HONEY BLEND",
+        "industry_code": "36",
+        "industry_name": "Food Sweeteners (Nutritive)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003221",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240325",
+    "reactions": [
+      "Food poisoning"
+    ],
+    "date_started": "20240323",
+    "consumer": {
+      "age": "45.4",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRIME ICE POP",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003274",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240327",
+    "reactions": [
+      "Chest pain"
+    ],
+    "date_started": "20240325",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DELTA 8 THC GUMMY",
+        "industry_code": "33",
+        "industry_name": "Candy W/O Choc/Special/Chew Gum"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003654",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20240410",
+    "reactions": [
+      "Abdominal discomfort",
+      "Diarrhoea",
+      "Dyspepsia",
+      "Gastritis",
+      "Nausea",
+      "Pyrexia",
+      "Vomiting",
+      "Weight decreased"
+    ],
+    "date_started": "20240308",
+    "consumer": {
+      "age": "33",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "AG1 WHOLE FOOD POUCH 360G NON SPECIFIC",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-012577",
+    "outcomes": [
+      "Hospitalization",
+      "Disability"
+    ],
+    "date_created": "20241015",
+    "reactions": [
+      "Balance disorder",
+      "Hypervitaminosis",
+      "Hypoaesthesia",
+      "Neuropathy peripheral"
+    ],
+    "date_started": "20240328",
+    "consumer": {
+      "age": "52",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SPORTS DRINK PEACH MANGO",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "2025-CFS-005230",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20250408",
+    "reactions": [
+      "Throat tightness"
+    ],
+    "date_started": "20240329",
+    "consumer": {
+      "age": "16",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LIQUID MULTI",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003593",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240408",
+    "reactions": [
+      "Abdominal pain upper",
+      "Abdominal tenderness",
+      "Dizziness",
+      "Hyperhidrosis",
+      "Syncope"
+    ],
+    "date_started": "20240323",
+    "consumer": {
+      "age": "82",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRESERVISION AREDS 2 FORMULA CHEWABLES",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-005301",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240520",
+    "reactions": [
+      "Headache",
+      "Heart rate increased",
+      "Insomnia"
+    ],
+    "date_started": "20240321",
+    "consumer": {
+      "age": "58",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DOUBLE WOOD MAGNESIUM L-THREONATE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2025-CFS-005257",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20250408",
+    "reactions": [
+      "Abdominal pain",
+      "Asthenia",
+      "Hospitalisation",
+      "Loss of consciousness",
+      "Vomiting"
+    ],
+    "date_started": "20240401",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "AG1 WHOLE FOOD POUCH 360G NON SPECIFIC",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-002867",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240313",
+    "reactions": [
+      "Fatigue",
+      "Frequent bowel movements",
+      "Haematochezia",
+      "Headache",
+      "Myalgia",
+      "Nausea"
+    ],
+    "date_started": "20240311",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FIJI ARTESIAN WATER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SLIPPERY ELM BARK",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXCEDRIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-004640",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240428",
+    "reactions": [
+      "Abdominal discomfort",
+      "Bacterial infection",
+      "Fatigue",
+      "Flatulence",
+      "Haemorrhage",
+      "Nausea"
+    ],
+    "date_started": "20240325",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MASTER PEACE BY HUMAN CONSCIOUSNESS SUPPORT",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SERREPEPTASE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SELENIUM",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003004",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240318",
+    "reactions": [
+      "Headache"
+    ],
+    "date_started": "20240317",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERSHEY'S MILK CHOCOLATE CHIPS",
+        "industry_code": "34",
+        "industry_name": "Choc/Cocoa Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003071",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20240320",
+    "reactions": [
+      "Abdominal discomfort",
+      "Chills",
+      "Cold sweat",
+      "Diarrhoea",
+      "Headache",
+      "Vomiting"
+    ],
+    "date_started": "20240313",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LIVE IT UP SUPER GREENS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-014880",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20241125",
+    "reactions": [
+      "Delusion",
+      "Fear",
+      "Insomnia",
+      "Obsessive-compulsive disorder",
+      "Paranoia",
+      "Rash",
+      "Weight decreased"
+    ],
+    "date_started": "20240402",
+    "consumer": {
+      "age": "61",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "UB TRIPPIN",
+        "industry_code": "33",
+        "industry_name": "Candy W/O Choc/Special/Chew Gum"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003076",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240320",
+    "reactions": [
+      "Blood pressure increased",
+      "Chest pain"
+    ],
+    "date_started": "20240318",
+    "consumer": {
+      "age": "55",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GOVVI WOW",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003596",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240408",
+    "reactions": [
+      "Drug intolerance",
+      "Hypertension"
+    ],
+    "date_started": "20240319",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRESERVISION AREDS 2 FORMULA SOFT GELS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003252",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240326",
+    "reactions": [
+      "Abnormal behaviour",
+      "Overdose",
+      "Vomiting"
+    ],
+    "date_started": "20240323",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "THC GUMMIES",
+        "industry_code": "33",
+        "industry_name": "Candy W/O Choc/Special/Chew Gum"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003220",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Allergic Reaction"
+    ],
+    "date_created": "20240325",
+    "reactions": [
+      "Anaphylactic reaction",
+      "Dyspnoea",
+      "Panic reaction",
+      "Rash",
+      "Vomiting"
+    ],
+    "date_started": "20240322",
+    "consumer": {
+      "age": "32",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SPECIALLY SELECTED DOUBLE CHOCOLATE PREMIUM BROWNIE MIX",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "GUMMY VITAMINS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-010787",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20240819",
+    "reactions": [
+      "Diarrhoea",
+      "Pain",
+      "Paralysis",
+      "Pneumothorax",
+      "Salmonellosis",
+      "Weight decreased"
+    ],
+    "date_started": "20240325",
+    "consumer": {
+      "age": "67",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CUCUMBERS",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-003273",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20240327",
+    "reactions": [
+      "Asthenia"
+    ],
+    "date_started": "20240319",
+    "consumer": {
+      "age": "23",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FRUIT AND GRAIN BARS BLUEBERRY",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "SUNCO NATURAL 100% WHOLE GRAIN QUICK OATS",
+        "industry_code": "02",
+        "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+      }
+    ]
+  }
+]

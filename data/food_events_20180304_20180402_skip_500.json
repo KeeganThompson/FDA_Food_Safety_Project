@@ -1,0 +1,357 @@
+[
+  {
+    "report_number": "2018-CFS-004928",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20180318",
+    "reactions": [
+      "Chapped lips",
+      "Haemorrhage",
+      "Lip exfoliation",
+      "Lip swelling"
+    ],
+    "date_started": "20180317",
+    "consumer": {
+      "age": "48",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EOS LIP BALM",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "VITAMIN C",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MULTI-VITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "IRON",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-005294",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20180331",
+    "reactions": [
+      "Chest discomfort",
+      "Chest pain",
+      "Palpitations",
+      "Pruritus",
+      "Swelling",
+      "Throat tightness"
+    ],
+    "date_started": "20180330",
+    "consumer": {
+      "age": "64",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRU NIAGIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-005308",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20180402",
+    "reactions": [
+      "Abdominal pain upper",
+      "Diarrhoea"
+    ],
+    "date_started": "20180329",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ZEAL KIWI WATERMELON MIX",
+        "industry_code": "30",
+        "industry_name": "Beverage Bases/Conc/Nectar"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "DE Dry Eye Omega Benefits",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-005037",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20180323",
+    "reactions": [
+      "Nausea",
+      "Vomiting"
+    ],
+    "date_started": "20180316",
+    "consumer": {
+      "age": "31",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ADVOCARE THERMOPLUS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-012616",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20231016",
+    "reactions": [
+      "Exposure to chemical pollution",
+      "Ovarian cancer"
+    ],
+    "date_started": "20180401",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-005375",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20180401",
+    "reactions": [
+      "Abdominal distension",
+      "Flatulence",
+      "Vomiting"
+    ],
+    "date_started": "20180331",
+    "consumer": {
+      "age": "16",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GENERAL MILLS CHEERIOS ORIGINAL",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-006440",
+    "outcomes": [
+      "Hospitalization",
+      "Disability"
+    ],
+    "date_created": "20200626",
+    "reactions": [
+      "Alopecia",
+      "Folliculitis",
+      "Staphylococcal infection",
+      "Swelling"
+    ],
+    "date_started": "20180306",
+    "consumer": {
+      "age": "26.1",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LAFOLIE HAIR THERAPY GROWTH SERUM",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "LAFOLIE HAIR THERAPY vitablend",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-006072",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20180419",
+    "reactions": [
+      "Euphoric mood",
+      "Heart rate increased",
+      "Hyperventilation",
+      "Insomnia",
+      "Oropharyngeal pain",
+      "Palpitations",
+      "Panic reaction"
+    ],
+    "date_started": "20180324",
+    "consumer": {
+      "age": "59.6",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FOLGERS MOUNTAIN GROWN COUNTRY ROAST MILD GROUND COFFEE",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "ONE SOURCE HAIR SKIN AND NAILS MULTIPLE VITAMINS WITH BIOTIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "HERBAL COLON CLEANSE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-006197",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20180422",
+    "reactions": [
+      "Dependence"
+    ],
+    "date_started": "20180401",
+    "consumer": {
+      "age": "39",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MEDICINE MAN PHOENIX PREMIUM RED VEIN BALI KRATOM",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-011236",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20180906",
+    "reactions": [
+      "Chest discomfort",
+      "Dyspnoea",
+      "Hyperventilation",
+      "Paraesthesia"
+    ],
+    "date_started": "20180330",
+    "consumer": {
+      "age": "16",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DRAGON'S BREATH",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "B-12",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-005165",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20180325",
+    "reactions": [
+      "Adverse event",
+      "Infection",
+      "Skin burning sensation",
+      "Wound",
+      "Wound secretion"
+    ],
+    "date_started": "20180323",
+    "consumer": {
+      "age": "16",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CLARIOL NICE N EASY PERMANANT HAIR DYE",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Melatonin",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  }
+]

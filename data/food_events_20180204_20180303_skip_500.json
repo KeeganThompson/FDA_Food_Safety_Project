@@ -1,0 +1,227 @@
+[
+  {
+    "report_number": "2021-CFS-009486",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20210728",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20180301",
+    "consumer": {
+      "age": "70.16",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-004975",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20180320",
+    "reactions": [
+      "Alopecia",
+      "Application site pustules",
+      "Dandruff",
+      "Depression",
+      "Dry skin",
+      "Hair texture abnormal",
+      "Metrorrhagia",
+      "Mood swings",
+      "Pruritus",
+      "Skin irritation",
+      "Skin ulcer",
+      "Weight increased"
+    ],
+    "date_started": "20180217",
+    "consumer": {
+      "age": "38.83",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MONAT REVIVE SHAMPOO AND CONDITIONER",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-002532",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20180215",
+    "reactions": [
+      "Urinary retention"
+    ],
+    "date_started": "20180207",
+    "consumer": {
+      "age": "83",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SUPER BETA PROSTATE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-009628",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20200929",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20180219",
+    "consumer": {
+      "age": "27",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-000416",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20231025",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20180301",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-005537",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20180405",
+    "reactions": [
+      "Erythema",
+      "Hypersensitivity",
+      "Pruritus",
+      "Rash",
+      "Rash macular",
+      "Urticaria"
+    ],
+    "date_started": "20180210",
+    "consumer": {
+      "age": "48",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CELLUCOR C4 RIPPED - CHERRY LIMEADE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-004253",
+    "outcomes": [
+      "Disability",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20180310",
+    "reactions": [
+      "Abdominal discomfort",
+      "Abdominal distension",
+      "Abdominal pain upper",
+      "Clostridium difficile infection",
+      "Malaise",
+      "Nausea",
+      "Salmonellosis"
+    ],
+    "date_started": "20180301",
+    "consumer": {
+      "age": "35.91",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KITE HILL CREAM CHEESE SYTLE SPREAD PLAIN",
+        "industry_code": "12",
+        "industry_name": "Cheese/Cheese Prod"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Vitamin C",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "Probiotics",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  }
+]

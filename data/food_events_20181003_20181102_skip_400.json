@@ -1,0 +1,394 @@
+[
+  {
+    "report_number": "2018-CFS-012420",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20181011",
+    "reactions": [
+      "Adverse event"
+    ],
+    "date_started": "20181008",
+    "consumer": {
+      "age": "36",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "POWER MAX BOSS RHINO",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-009678",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20190919",
+    "reactions": [
+      "Arthralgia",
+      "Hyperhidrosis"
+    ],
+    "date_started": "20181014",
+    "consumer": {
+      "age": "83",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MINERALS AND MULTIVITAMINS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-012928",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20181026",
+    "reactions": [
+      "Vomiting"
+    ],
+    "date_started": "20181024",
+    "consumer": {
+      "age": "25.3",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CINNAMON TOAST CRUNCH",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-014636",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20181213",
+    "reactions": [
+      "Cough",
+      "Secretion discharge",
+      "Sinus congestion",
+      "Sneezing",
+      "Throat irritation"
+    ],
+    "date_started": "20181030",
+    "consumer": {
+      "age": "53",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SNICKERS BAR",
+        "industry_code": "34",
+        "industry_name": "Choc/Cocoa Prod"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "vitamin D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-012501",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20181015",
+    "reactions": [
+      "Eye irritation",
+      "Eye swelling",
+      "Lacrimation increased",
+      "Ocular hyperaemia"
+    ],
+    "date_started": "20181015",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "RODAN AND FIELDS ENHANCEMENTS LASH BOOST",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-003711",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210412",
+    "reactions": [
+      "Mesothelioma"
+    ],
+    "date_started": "20181005",
+    "consumer": {
+      "age": "48",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-007688",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20190730",
+    "reactions": [
+      "Endometrial cancer"
+    ],
+    "date_started": "20181101",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-013715",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20181119",
+    "reactions": [
+      "Biopsy liver abnormal",
+      "Blood pressure decreased",
+      "Jaundice",
+      "Liver injury",
+      "Loss of consciousness",
+      "Malaise"
+    ],
+    "date_started": "20181021",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANYAN BOTANICALS ASHWAGANDHA POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANYAN BOTANICALS TRIPHALA POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANYAN BOTANICALS SHATAVARI POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANYAN BOTANICALS GUDUCHI POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANYAN BOTANICALS BRAHMI/GOTU KOLA POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANYAN BOTANICALS BACOPA POWDER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-013062",
+    "outcomes": [
+      "Other Serious Outcome"
+    ],
+    "date_created": "20181031",
+    "reactions": [
+      "Defaecation urgency",
+      "Vertigo",
+      "Visual impairment"
+    ],
+    "date_started": "20181030",
+    "consumer": {
+      "age": "46",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CULTURELLE PROBIOTICS PRO-WELL 3-IN-1 COMPLETE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-005808",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20190611",
+    "reactions": [
+      "Death",
+      "Exposure to chemical pollution",
+      "Mesothelioma"
+    ],
+    "date_started": "20181026",
+    "consumer": {
+      "age": "74",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-003429",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20200312",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20181101",
+    "consumer": {
+      "age": "58",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-008762",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20190823",
+    "reactions": [
+      "Dermatitis contact"
+    ],
+    "date_started": "20181006",
+    "consumer": {
+      "age": "49",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "AUSSIE MIRACLE MOIST SHAMPOO WITH AVOCADO & AUSTRALIAN JOJOBA OIL",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "vitamin k2",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "vitamin d3",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-012730",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20181019",
+    "reactions": [
+      "Blood glucose decreased",
+      "Rash erythematous"
+    ],
+    "date_started": "20181010",
+    "consumer": {
+      "age": "29",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRUCONTROL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRUFIX",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  }
+]

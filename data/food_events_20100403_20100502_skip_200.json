@@ -1,0 +1,2780 @@
+[
+  {
+    "report_number": "127587",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100603",
+    "reactions": [
+      "BLOOD POTASSIUM DECREASED",
+      "DIZZINESS",
+      "DYSPNOEA",
+      "NAUSEA"
+    ],
+    "date_started": "20100427",
+    "consumer": {
+      "age": "84",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ABS OMEGA Q PLUS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "127682",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100422",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20100422",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CEDAR'S GARLIC LOVER'S HOMMUS",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "126508",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100519",
+    "reactions": [
+      "DIARRHOEA"
+    ],
+    "date_started": "20100426",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "RAGU OLD WORLD TRADITIONAL STYLE PASTA SAUCE",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-009704",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20210802",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20100501",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "125878",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100419",
+    "reactions": [
+      "DIARRHOEA",
+      "DYSPEPSIA",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20100414",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DAN D PAK GARLIC AND ONION CASHEWS",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-004088",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211115",
+    "reactions": [
+      "Cervix carcinoma stage III"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "127480",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100609",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MAPLE BROWN SUGAR INSTANT CREAM OF WHEAT",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SUGAR",
+        "industry_code": "36",
+        "industry_name": "Food Sweeteners (Nutritive)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SPAGHETTI",
+        "industry_code": "04",
+        "industry_name": "Macaroni/Noodle Prod"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MILK 2%",
+        "industry_code": "09",
+        "industry_name": "Milk/Butter/Dried Milk Prod"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MASHED POTATOES",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "DONUT",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "COFFEE",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "126068",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100505",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20100430",
+    "consumer": {
+      "age": "17",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GERBER PEARS",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "126077",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100426",
+    "reactions": [
+      "DIZZINESS",
+      "DYSGEUSIA",
+      "HEADACHE",
+      "HEART RATE ABNORMAL",
+      "PALPITATIONS",
+      "PLEURITIC PAIN",
+      "RESPIRATORY DISORDER",
+      "VISION BLURRED"
+    ],
+    "date_started": "20100424",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BEST CHOICE ICE CREAM BARS",
+        "industry_code": "13",
+        "industry_name": "Ice Cream Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "128940",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100803",
+    "reactions": [
+      "BLOOD ELECTROLYTES DECREASED",
+      "DIARRHOEA",
+      "LOSS OF CONSCIOUSNESS",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20100413",
+    "consumer": {
+      "age": "32",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CLEANSE FOR LIFE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-001508",
+    "outcomes": [
+      "Death",
+      "Hospitalization"
+    ],
+    "date_created": "20220127",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20100428",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "126239",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100505",
+    "reactions": [
+      "Adverse reaction",
+      "BURNING SENSATION",
+      "COUGH",
+      "DYSPHONIA"
+    ],
+    "date_started": "20100502",
+    "consumer": {
+      "age": "30",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "OTIS SPUNKMEYERS BUTTER SUGAR FROZEN COOKIE DOUGH",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "128061",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100503",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "ABDOMINAL PAIN UPPER"
+    ],
+    "date_started": "20100430",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "COCA-COLA GLACEAU VITAMIN WATER XXX ACAI BLUEBERRY, POMEGRANATE",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "128883",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100406",
+    "reactions": [
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100404",
+    "consumer": {
+      "age": "1",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FLORIDA STRAWBERRIES",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "205050",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20161208",
+    "reactions": [
+      "INTRACRANIAL ANEURYSM",
+      "LUNG NEOPLASM MALIGNANT",
+      "THROAT CANCER",
+      "THYROID CANCER"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "age": "61",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CENTRUM ADULTS UNDER 50 (MULTIMINERALS, MULTIVITAMINS) TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "CENTRUM SILVER ADULTS 50+ (MULTIMINERALS, MULTIVITAMINS) TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126716",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100527",
+    "reactions": [
+      "ASTHENIA",
+      "BONE PAIN",
+      "PALPITATIONS"
+    ],
+    "date_started": "20100415",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE CELL ACTIVATOR",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE XTRA-CAL ADVANCED",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE TRIPLE BERRY COMPLEX",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE PERSONAL PROTEIN POWDER",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE HERBAL CONCENTRATE TEA ORIGINAL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE FORMULA 1 COOKIES N' CREAM",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      }
+    ]
+  },
+  {
+    "report_number": "126769",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20100521",
+    "reactions": [
+      "BURNING SENSATION",
+      "EYE SWELLING",
+      "PRURITUS"
+    ],
+    "date_started": "20100501",
+    "consumer": {
+      "age": "28",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LA COLORS EYELINER LA COLORS SMUDGE PROOF LIQUID",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "125890",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100415",
+    "reactions": [
+      "HEADACHE",
+      "PAIN",
+      "VOMITING"
+    ],
+    "date_started": "20100403",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WALMART DIET DOCTOR THUNDER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "214808",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20170612",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100501",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "126644",
+    "outcomes": [
+      "Hospitalization",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100517",
+    "reactions": [
+      "HYPERSENSITIVITY"
+    ],
+    "date_started": "20100413",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "159484",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20121127",
+    "reactions": [
+      "FURUNCLE",
+      "IMPAIRED HEALING"
+    ],
+    "date_started": "20100501",
+    "consumer": {
+      "age": "55.05",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SENSA WEIGHT LOSS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-009836",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20190926",
+    "reactions": [
+      "Death",
+      "Ovarian cancer metastatic"
+    ],
+    "date_started": "20100428",
+    "consumer": {
+      "age": "52",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-009456",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210727",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100430",
+    "consumer": {
+      "age": "25",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "127001",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100601",
+    "reactions": [
+      "ANAL FUNGAL INFECTION",
+      "CLOSTRIDIAL INFECTION",
+      "DIARRHOEA",
+      "DYSPEPSIA",
+      "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "VULVOVAGINAL MYCOTIC INFECTION"
+    ],
+    "date_started": "20100412",
+    "consumer": {
+      "age": "56",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NATURE MADE COQ10 30 MG",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "127197",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100427",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "HEADACHE",
+      "VOMITING"
+    ],
+    "date_started": "20100425",
+    "consumer": {
+      "age": "55",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FRITO-LAY FRITO SCOOPS CORN CHIPS",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      }
+    ]
+  },
+  {
+    "report_number": "126619",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20100521",
+    "reactions": [
+      "CHOKING SENSATION",
+      "DYSPNOEA"
+    ],
+    "date_started": "20100426",
+    "consumer": {
+      "age": "77",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ESTER C 1000MG TABLETS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "127278",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100611",
+    "reactions": [
+      "DIZZINESS",
+      "SHOCK"
+    ],
+    "date_started": "20100429",
+    "consumer": {
+      "age": "58",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRUNATURE COQ10 100MG SOFTGEL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "KIRKLAND MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "FISH OIL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126767",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100517",
+    "reactions": [
+      "CHOKING SENSATION",
+      "DYSPNOEA",
+      "RASH",
+      "RESPIRATORY ARREST"
+    ],
+    "date_started": "20100429",
+    "consumer": {
+      "age": "10",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-010976",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210816",
+    "reactions": [
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20100417",
+    "consumer": {
+      "age": "71",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-013447",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20181113",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100501",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "135220",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100415",
+    "reactions": [
+      "ASTHENIA",
+      "FATIGUE",
+      "HYPOAESTHESIA ORAL",
+      "NAUSEA"
+    ],
+    "date_started": "20100412",
+    "consumer": {
+      "age": "25",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "YOO HOO DRINK",
+        "industry_code": "34",
+        "industry_name": "Choc/Cocoa Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "207697",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20170109",
+    "reactions": [
+      "ABDOMINAL DISTENSION",
+      "DIARRHOEA",
+      "THROAT TIGHTNESS",
+      "VOMITING"
+    ],
+    "date_started": "20100421",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUORN NAKED CHICKEN CUTLETS",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-000198",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20200108",
+    "reactions": [
+      "Death",
+      "Injury",
+      "Ovarian cancer"
+    ],
+    "date_started": "20100416",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "125882",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100427",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20100422",
+    "consumer": {
+      "age": "7",
+      "age_unit": "month(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BEECH NUT SWEET CORN CASSEROLE",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "159405",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20121123",
+    "reactions": [
+      "DECREASED APPETITE",
+      "PANCREATITIS",
+      "STOMACH DISCOMFORT"
+    ],
+    "date_started": "20100404",
+    "consumer": {
+      "age": "79",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "VITAPOWER VITAMIN SUPPLEMENT ANTIOXIDANT TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "VITAPOWER VITAMIN SUPPLEMENTS MINERAL TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "VITAPOWER VITAMIN SUPPLEMENT SUPERJUICE TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "VITAPOWER VITAMIN SUPPLEMENT ENERGIZER TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "125963",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100430",
+    "reactions": [
+      "ANGIOEDEMA",
+      "BLISTER",
+      "BLOOD PRESSURE INCREASED",
+      "DYSPNOEA",
+      "FEELING ABNORMAL",
+      "LIP OEDEMA",
+      "ORAL DISCOMFORT",
+      "PALLOR",
+      "PRURITUS",
+      "THROAT IRRITATION",
+      "URTICARIA"
+    ],
+    "date_started": "20100407",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CITRACAL MAXIMUM CALCIUM CITRATE + D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "131001",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20101013",
+    "reactions": [
+      "CARDIAC MURMUR",
+      "CHEST PAIN",
+      "DYSPNOEA",
+      "GASTROINTESTINAL HAEMORRHAGE",
+      "VENTRICULAR ARRHYTHMIA",
+      "VENTRICULAR EXTRASYSTOLES"
+    ],
+    "date_started": "20100410",
+    "consumer": {
+      "age": "26",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HYDROXICUT 100% PREMIUM ACAI 1100 MG",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "127588",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100603",
+    "reactions": [
+      "LARGE INTESTINAL HAEMORRHAGE"
+    ],
+    "date_started": "20100403",
+    "consumer": {
+      "age": "69",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SOLARAY BILBERRY",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "132749",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20101124",
+    "reactions": [
+      "CHEST DISCOMFORT",
+      "INFLUENZA LIKE ILLNESS",
+      "PALPITATIONS"
+    ],
+    "date_started": "20100426",
+    "consumer": {
+      "age": "63.19",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "COLONIX INTESTINAL CLEANSER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "COLONIX PARANIL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "COLONIX KLERITEA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "128121",
+    "outcomes": [
+      "Required Intervention",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100420",
+    "reactions": [
+      "COUGH",
+      "SKIN DISCOLOURATION",
+      "URTICARIA"
+    ],
+    "date_started": "20100415",
+    "consumer": {
+      "age": "15",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FIT AND ACTIVE S'MORES DRIZZLED MINICRISPS",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      }
+    ]
+  },
+  {
+    "report_number": "127700",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100621",
+    "reactions": [
+      "DYSPNOEA",
+      "FLUID RETENTION"
+    ],
+    "date_started": "20100413",
+    "consumer": {
+      "age": "71",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PURITY PRODUCTS OMEGA BERRY",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-011047",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210813",
+    "reactions": [
+      "Death",
+      "Ovarian cancer"
+    ],
+    "date_started": "20100414",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-003180",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210317",
+    "reactions": [
+      "Death",
+      "Injury",
+      "Ovarian cancer"
+    ],
+    "date_started": "20100406",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-002709",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220224",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100428",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "126182",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20100504",
+    "reactions": [
+      "BLOOD GLUCOSE DECREASED",
+      "DIARRHOEA",
+      "DIZZINESS",
+      "FAECAL VOLUME INCREASED",
+      "FATIGUE",
+      "LETHARGY",
+      "MOBILITY DECREASED"
+    ],
+    "date_started": "20100406",
+    "consumer": {
+      "age": "70",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PHILLIP'S COLON HEALTH",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126964",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100412",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100408",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PEPPER CREEK FARMS MIXED PEPPERCORM",
+        "industry_code": "28",
+        "industry_name": "Spices, Flavors And Salts"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-007860",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20200813",
+    "reactions": [
+      "Death",
+      "Endometrial disorder",
+      "Metastases to lymph nodes",
+      "Ovarian cancer stage IV",
+      "Ovarian epithelial cancer",
+      "Papillary serous endometrial carcinoma",
+      "Thrombocytopenic purpura"
+    ],
+    "date_started": "20100429",
+    "consumer": {
+      "age": "55",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-013112",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20201217",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20100410",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-011049",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211208",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20100420",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-011384",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210819",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20100416",
+    "consumer": {
+      "age": "67",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "125344",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20100409",
+    "reactions": [
+      "ANGER",
+      "BACK PAIN",
+      "CHEST DISCOMFORT",
+      "DIZZINESS",
+      "DRY MOUTH",
+      "DYSPNOEA",
+      "FLUSHING",
+      "HEART RATE INCREASED",
+      "IRRITABILITY"
+    ],
+    "date_started": "20100408",
+    "consumer": {
+      "age": "35",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "REISHISLIM OR REISHITHIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "130241",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100430",
+    "reactions": [
+      "NAUSEA"
+    ],
+    "date_started": "20100426",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "AMY'S VEGETARIAN ORGANIC TRADITIONAL REFRIED BEANS",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-000713",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20190125",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20100409",
+    "consumer": {
+      "age": "19",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "139163",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100426",
+    "reactions": [
+      "DIARRHOEA",
+      "FATIGUE",
+      "FLUSHING",
+      "HYPERHIDROSIS",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WAWONA FREESTONE ORGANIC PEACHES",
+        "industry_code": "21",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "125436",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100414",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20100411",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BASA NOVA STRIPED PANGASIUS (SWAI) FILLET",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "125723",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100423",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "ABDOMINAL PAIN UPPER",
+      "APPETITE DISORDER",
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "NAUSEA"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "COCA COLA COLA SODA",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "126101",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100428",
+    "reactions": [
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100427",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF NATURAL CREAMY PEANUT BUTTER SPREAD",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "135371",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100428",
+    "reactions": [
+      "DYSGEUSIA"
+    ],
+    "date_started": "20100415",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PINE NUTS",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "126464",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100512",
+    "reactions": [
+      "FACE OEDEMA"
+    ],
+    "date_started": "20100407",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ELATIONS DIETARY SUPPLEMENT",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "125908",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100426",
+    "reactions": [
+      "ABDOMINAL PAIN UPPER",
+      "CHILLS",
+      "DIARRHOEA",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JIF CREAMY ALL NATURAL PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "126031",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100427",
+    "reactions": [
+      "FATIGUE",
+      "FEELING ABNORMAL",
+      "SENSATION OF HEAVINESS"
+    ],
+    "date_started": "20100415",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRIDENT SEAFOOD CORP BEAR AND WOLF CANNED SALMON",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-009345",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20180717",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20100405",
+    "consumer": {
+      "age": "69",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "125857",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20100427",
+    "reactions": [
+      "HYPERTENSION"
+    ],
+    "date_started": "20100421",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SPRING VALLEY ECHINACEA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126989",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100527",
+    "reactions": [
+      "LACERATION"
+    ],
+    "date_started": "20100427",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SAFEWAY TILAPIA FISH",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "126394",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100406",
+    "reactions": [
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100404",
+    "consumer": {
+      "age": "34",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FLORIDA STRAWBERRIES",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "127221",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100430",
+    "reactions": [
+      "ANXIETY",
+      "Adverse event",
+      "BALANCE DISORDER",
+      "BOTULISM",
+      "DEHYDRATION",
+      "EYELID DISORDER",
+      "FAECES DISCOLOURED",
+      "FEEDING DISORDER NEONATAL",
+      "GASTROINTESTINAL DISORDER",
+      "HEART RATE ABNORMAL",
+      "HEART RATE INCREASED",
+      "IRRITABILITY",
+      "LETHARGY",
+      "NERVOUS SYSTEM DISORDER",
+      "POOR SUCKING REFLEX"
+    ],
+    "date_started": "20100425",
+    "consumer": {
+      "age": "7",
+      "age_unit": "week(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMILAC ADVANCE EARLYSHIELD FOR IMMUNE SUPPORT",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "CHAMOMILE TEA",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "126503",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100515",
+    "reactions": [
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100428",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LAURA LYNN PURE FRESH PRESSED APPLE JUICE",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "127489",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100413",
+    "reactions": [
+      "DYSGEUSIA"
+    ],
+    "date_started": "20100407",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "AMPORT FOODS PINE NUTS",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "127003",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100603",
+    "reactions": [
+      "PRURITUS",
+      "URTICARIA"
+    ],
+    "date_started": "20100427",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CANDEX",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "LIVING FLORA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "125691",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20100427",
+    "reactions": [
+      "FOREIGN BODY TRAUMA"
+    ],
+    "date_started": "20100404",
+    "consumer": {
+      "age": "70",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KIRKLAND GLUCOSAMINE HCL WITH MSM",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "ZINC",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "VITAMIN C",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "FISH OIL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-006105",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20221214",
+    "reactions": [
+      "Death",
+      "Fallopian tube cancer stage III"
+    ],
+    "date_started": "20100427",
+    "consumer": {
+      "age": "58",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-002273",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211110",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "age": "25",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "207698",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20170109",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20100423",
+    "consumer": {
+      "age": "29",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUORN NUGGETS",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-000900",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20190131",
+    "reactions": [
+      "Death",
+      "Ovarian cancer metastatic"
+    ],
+    "date_started": "20100422",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "132342",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100426",
+    "reactions": [
+      "DIARRHOEA",
+      "FATIGUE",
+      "FLUSHING",
+      "HYPERHIDROSIS",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20100419",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WAWONA FREESTONE ORGANIC PEACHES",
+        "industry_code": "21",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "126029",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100429",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20100428",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MOTHER'S PICKLE MANGO PICKLES",
+        "industry_code": "27",
+        "industry_name": "Dressing/Condiment"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-011044",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210813",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20100423",
+    "consumer": {
+      "age": "57",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "126618",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100521",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "GASTROINTESTINAL DISORDER",
+      "INTESTINAL PERFORATION"
+    ],
+    "date_started": "20100423",
+    "consumer": {
+      "age": "22",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE 21-DAY HERBAL CLEANSING PROGRAM AM TABLETS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE HERBAL ALOE CONCENTRATE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE 21-DAY HERBAL CLEANSING PROGRAM PM TABLETS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE FLORAFIBER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-010837",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210811",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100420",
+    "consumer": {
+      "age": "43",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "207692",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20170109",
+    "reactions": [
+      "EAR SWELLING",
+      "EYE SWELLING",
+      "SWELLING FACE",
+      "URTICARIA"
+    ],
+    "date_started": "20100408",
+    "consumer": {
+      "age": "49",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUORN CHICKEN PATTY",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "210426",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20170109",
+    "reactions": [
+      "BACTERIAL INFECTION",
+      "NAUSEA",
+      "PRESYNCOPE",
+      "VOMITING"
+    ],
+    "date_started": "20100412",
+    "consumer": {
+      "age": "45",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUORN GOAT CHEESE FILLED CHICKEN CUTLETS",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "143738",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20110912",
+    "reactions": [
+      "BLOOD CHOLESTEROL INCREASED",
+      "CHOLESTASIS",
+      "CHROMATURIA",
+      "HEPATOMEGALY",
+      "HYPERBILIRUBINAEMIA",
+      "JAUNDICE",
+      "NAUSEA",
+      "PAIN",
+      "PRURITUS",
+      "VOMITING"
+    ],
+    "date_started": "20100417",
+    "consumer": {
+      "age": "32",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "INCREDIBLE BULK",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "TREN 2 XTREME",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-011053",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210813",
+    "reactions": [
+      "Endometrial adenocarcinoma"
+    ],
+    "date_started": "20100415",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "126003",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100427",
+    "reactions": [
+      "Adverse reaction",
+      "DIARRHOEA",
+      "HEADACHE",
+      "MUSCULOSKELETAL DISORDER",
+      "MYALGIA",
+      "NAUSEA",
+      "PAIN",
+      "VOMITING"
+    ],
+    "date_started": "20100412",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TRUVIA NATURAL SWEETENER SUGAR SUBSTITUTE",
+        "industry_code": "36",
+        "industry_name": "Food Sweeteners (Nutritive)"
+      }
+    ]
+  },
+  {
+    "report_number": "126614",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100521",
+    "reactions": [
+      "BLOOD POTASSIUM DECREASED",
+      "DYSPNOEA",
+      "EYE SWELLING",
+      "FACE OEDEMA",
+      "HAEMORRHAGE",
+      "HYPERSENSITIVITY",
+      "PRURITUS",
+      "WHEEZING"
+    ],
+    "date_started": "20100421",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SUNDOWN FISH OIL 1000MG SOFTGEL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126847",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100428",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20100427",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LA CHOY CHOW MEIN",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "129137",
+    "outcomes": [
+      "Hospitalization",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20100608",
+    "reactions": [
+      "COLITIS",
+      "HAEMATURIA",
+      "NEPHROLITHIASIS",
+      "PAIN"
+    ],
+    "date_started": "20100405",
+    "consumer": {
+      "age": "61",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SUPER CALCIUM 1200 SOFTGELS 60",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "125733",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20100414",
+    "reactions": [
+      "BLOOD PRESSURE INCREASED",
+      "DEPRESSED MOOD",
+      "HEART RATE INCREASED",
+      "MUSCULOSKELETAL PAIN",
+      "NECK PAIN",
+      "SUICIDAL IDEATION"
+    ],
+    "date_started": "20100406",
+    "consumer": {
+      "age": "35",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "126744",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100524",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "CHILLS",
+      "DEHYDRATION",
+      "DIZZINESS",
+      "FEELING OF BODY TEMPERATURE CHANGE",
+      "HAEMATOCHEZIA",
+      "HEADACHE",
+      "NAUSEA",
+      "THIRST"
+    ],
+    "date_started": "20100410",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "OYSTERS",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "125345",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100409",
+    "reactions": [
+      "BODY TEMPERATURE INCREASED",
+      "BURNING SENSATION",
+      "HYPERSENSITIVITY",
+      "SKIN DISCOLOURATION"
+    ],
+    "date_started": "20100407",
+    "consumer": {
+      "age": "22",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ZEDA TANNING MYSTIFY",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "126825",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20100525",
+    "reactions": [
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20100430",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LITTLE DEBBIE BANANA NUT MUFFINS",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "217534",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20170908",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20100420",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "127118",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20100525",
+    "reactions": [
+      "Rosacea"
+    ],
+    "date_started": "20100425",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NEUTROGENA OIL FREE MOISTURE SENSITIVE FREE",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-002987",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211112",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20100412",
+    "consumer": {
+      "age": "52",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "129838",
+    "outcomes": [
+      "Required Intervention",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100420",
+    "reactions": [
+      "COUGH",
+      "NAIL DISCOLOURATION",
+      "URTICARIA"
+    ],
+    "date_started": "20100415",
+    "consumer": {
+      "age": "17",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FIT AND ACTIVE S'MORES DRIZZLED MINICRISPS",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      }
+    ]
+  },
+  {
+    "report_number": "127495",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20100622",
+    "reactions": [
+      "DYSPHAGIA"
+    ],
+    "date_started": "20100424",
+    "consumer": {
+      "age": "47",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ESTER C 1000 MG TABLETS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  }
+]

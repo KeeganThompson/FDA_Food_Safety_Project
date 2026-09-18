@@ -1,0 +1,614 @@
+[
+  {
+    "report_number": "99594",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20080111",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "CONSTIPATION"
+    ],
+    "date_started": "20071120",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FIBER FUSION DAILY CLEANSING FIBER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "WHOLE BODY CLEANSE LAXATIVE FORMULA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "SUPER MILK THISTLE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "207714",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20170109",
+    "reactions": [
+      "PRESYNCOPE",
+      "PRURITUS",
+      "URTICARIA"
+    ],
+    "date_started": "20071122",
+    "consumer": {
+      "age": "9",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUORN TURKEY ROAST",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-001231",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220127",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20071127",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "124126",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20080122",
+    "reactions": [
+      "MALAISE"
+    ],
+    "date_started": "20071113",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TASTYKAKE BUTTERSCOTCH KRIMPETS",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-010530",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210810",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20071105",
+    "consumer": {
+      "age": "57",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-008809",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20200915",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20071109",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "98180",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20071119",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20071115",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SMITH DAIRY SOUTHERN STYLE SWEET TEA",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "98672",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20071127",
+    "reactions": [
+      "Adverse reaction",
+      "HAIR TEXTURE ABNORMAL",
+      "MADAROSIS",
+      "TRICHORRHEXIS"
+    ],
+    "date_started": "20071105",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHN FRIEDA COLLECTION LUMINOUS COLOR GLAZE",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "KENRA HAIR SPRAY",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "CLOUD NINE REPAIR MOUSSE",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHN FRIEDA COLLECTION SHEER BLONDE, HIGHLIGHT ACTIVATING MOISTURIZING SHAMPOO",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "111508",
+    "outcomes": [
+      "Congenital Anomaly"
+    ],
+    "date_created": "20090327",
+    "reactions": [
+      "CONGENITAL ANOMALY",
+      "HYPOSPADIAS"
+    ],
+    "date_started": "20071109",
+    "consumer": {
+      "age": "31",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PRIMACARE PRENATAL VITAMINS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "98395",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization"
+    ],
+    "date_created": "20071129",
+    "reactions": [
+      "HEPATITIS"
+    ],
+    "date_started": "20071106",
+    "consumer": {
+      "age": "26",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "210345",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20170109",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20071124",
+    "consumer": {
+      "age": "45",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "QUORN CHICKEN PATTY",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "98277",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20071119",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20071115",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SMITH DAIRY SOUTHERN STYLE SWEET TEA",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "98534",
+    "outcomes": [
+      "Life Threatening",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20071204",
+    "reactions": [
+      "ALANINE AMINOTRANSFERASE INCREASED",
+      "ASPARTATE AMINOTRANSFERASE INCREASED",
+      "DYSPNOEA",
+      "RHABDOMYOLYSIS"
+    ],
+    "date_started": "20071202",
+    "consumer": {
+      "age": "23",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EDURO-GUM CREATINE SUPPLEMENT POWDER 3 GRAMS PER TEASPOON",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "SPECIAL LIVER FORMULA WITH 600MG PORCINE LIVER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "AMINO-OR POWDER WITH 1.9 GRAMS OF L-ORNITHINE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "AMINO-ENERGIZE WITH 23 AMINO ACIDS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "100056",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20071109",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20071105",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ALLGOOD COMPANY CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "104101",
+    "outcomes": [
+      "Hospitalization",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20080604",
+    "reactions": [
+      "ABASIA",
+      "JOINT RANGE OF MOTION DECREASED",
+      "PAIN"
+    ],
+    "date_started": "20071106",
+    "consumer": {
+      "age": "73",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FUCOTHIN (CONCENTRATED FUCOXANTHIN)",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "99859",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20071219",
+    "reactions": [
+      "DIARRHOEA",
+      "EAR INFECTION",
+      "IRRITABILITY"
+    ],
+    "date_started": "20071201",
+    "consumer": {
+      "age": "20",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MOTTS FOR TOTS APPLE WHITE GRAPE, ONE-HALF JUICE ONE-HALF WATER",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "99182",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20071127",
+    "reactions": [
+      "BURNING SENSATION",
+      "Throat irritation"
+    ],
+    "date_started": "20071123",
+    "consumer": {
+      "age": "35",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "RAW, IN-SHELL OYSTERS",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-008502",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20200901",
+    "reactions": [
+      "Abdominal distension",
+      "Abdominal pain",
+      "Abdominal pain lower",
+      "Ascites",
+      "Back pain",
+      "Cardiomegaly",
+      "Cervicitis cystic",
+      "Connective tissue disorder",
+      "Diverticulitis",
+      "Dyspnoea",
+      "Erythema",
+      "Injury",
+      "Musculoskeletal pain",
+      "Ovarian cancer stage I",
+      "Post procedural infection"
+    ],
+    "date_started": "20071109",
+    "consumer": {
+      "age": "61",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-004325",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210428",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20071105",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "99397",
+    "outcomes": [
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20071207",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "Adverse reaction",
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20071116",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CHUNG'S QUALITY GOURMET VEGETABLES EGG ROLLS",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-005153",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20210517",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20071201",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  }
+]

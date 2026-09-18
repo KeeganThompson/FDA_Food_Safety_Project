@@ -121,7 +121,7 @@ function getMonthlyChunks (start, end) {
 
 
 // backoff to handle 429 error and skip range for 404 error
-async function fetchWithRetry(url, retries = 5, backoffs = 2000) {
+async function fetchWithRetry(url, retries = 5, backoffMs = 8000) {
     for (let i = 0; i < retries; i++) {
         try {
             const response = await fetch(url);
@@ -160,3 +160,8 @@ async function fetchWithRetry(url, retries = 5, backoffs = 2000) {
         }
     }       
 }
+
+main().catch(err => {
+    console.error("Fatal Application Error:", err);
+    process.exit(1);
+});

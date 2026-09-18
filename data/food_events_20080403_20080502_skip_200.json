@@ -1,0 +1,111 @@
+[
+  {
+    "report_number": "103186",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20080423",
+    "reactions": [
+      "ABDOMINAL DISCOMFORT",
+      "BURNING SENSATION",
+      "PHARYNGITIS",
+      "TOOTH DISORDER",
+      "TOOTHACHE"
+    ],
+    "date_started": "20080415",
+    "consumer": {
+      "age": "9",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GATORADE G2 FRUIT PUNCH",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "103267",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20080515",
+    "reactions": [
+      "HAEMORRHAGE",
+      "RETINAL DISORDER"
+    ],
+    "date_started": "20080422",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HYDROEYE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "116490",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20080408",
+    "reactions": [
+      "CHOKING",
+      "COUGH",
+      "HYPERSENSITIVITY",
+      "PALLOR",
+      "RETCHING"
+    ],
+    "date_started": "20080407",
+    "consumer": {
+      "age": "5",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SILK SOY MILK CHOCOLATE",
+        "industry_code": "14",
+        "industry_name": "Filled Milk/Imit Milk Prod"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "TAPIOCA LOAF TAPIOCA BREAD",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "102723",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20080422",
+    "reactions": [
+      "ALOPECIA"
+    ],
+    "date_started": "20080419",
+    "consumer": {
+      "age": "50.49",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "TOTAL BODY FORMULA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "report_number": "208011",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20170222",
+    "reactions": [
+      "MESOTHELIOMA"
+    ],
+    "date_started": "20160414",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "196578",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20160520",
+    "reactions": [
+      "EPISTAXIS"
+    ],
+    "date_started": "20160413",
+    "consumer": {
+      "age": "56",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "MELATONIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-004896",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211117",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20160422",
+    "consumer": {
+      "age": "58",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "195664",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20160422",
+    "reactions": [
+      "PANIC ATTACK"
+    ],
+    "date_started": "20160404",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "195534",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160418",
+    "reactions": [
+      "ABDOMINAL PAIN UPPER",
+      "ASTHENIA",
+      "DIARRHOEA",
+      "DYSPEPSIA",
+      "FOOD POISONING",
+      "HEADACHE",
+      "MYALGIA",
+      "NAUSEA",
+      "PAIN",
+      "PYREXIA",
+      "VOMITING"
+    ],
+    "date_started": "20160414",
+    "consumer": {
+      "age": "23",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PORTSIDE BEER BATTERED FISH FILLETS",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "195281",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20160408",
+    "reactions": [
+      "CHOKING"
+    ],
+    "date_started": "20160406",
+    "consumer": {
+      "age": "5",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GERBER BABY FOOD STAGE 2 APPLES AND CHICKEN",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "195906",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20160502",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "ASTHENIA",
+      "CHILLS",
+      "CHROMATURIA",
+      "DIARRHOEA",
+      "FEELING COLD",
+      "FEELING HOT",
+      "LISTERIOSIS",
+      "NAUSEA",
+      "PALLOR",
+      "RENAL PAIN"
+    ],
+    "date_started": "20160427",
+    "consumer": {
+      "age": "31",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "RESERS FINE FOODS MACARONI SALAD",
+        "industry_code": "37",
+        "industry_name": "Mult Food Dinner/Grav/Sauce/Special"
+      }
+    ]
+  },
+  {
+    "report_number": "195661",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20160422",
+    "reactions": [
+      "BLISTER",
+      "CHAPPED LIPS",
+      "ERYTHEMA",
+      "LIP PAIN",
+      "SWELLING"
+    ],
+    "date_started": "20160418",
+    "consumer": {
+      "age": "57",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EOS LIPBALM SWEETMINT",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "202420",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20160422",
+    "reactions": [
+      "HAIR TEXTURE ABNORMAL",
+      "HEADACHE",
+      "PAIN OF SKIN",
+      "SKIN IRRITATION"
+    ],
+    "date_started": "20160416",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SUAVE NATURAL ALMOND VERBENA 2 IN 1 SHAMPOO AND CONDITIONER INFUSED WITH ALMOND OIL AND VITAMIN D",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "195763",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160422",
+    "reactions": [
+      "DYSPNOEA",
+      "FOREIGN BODY"
+    ],
+    "date_started": "20160406",
+    "consumer": {
+      "age": "85",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NATUREMADE FULL STRENGTH MINI OMEGA 3 (DIETARY SUPPLEMENT) SOFTGEL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "COQ10 VITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "MULTIVITAMIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "195443",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160413",
+    "reactions": [
+      "PRURITUS",
+      "RASH"
+    ],
+    "date_started": "20160411",
+    "consumer": {
+      "age": "32",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSON & JOHNSON BABY OIL",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "FOLIC ACID",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "PRENATAL VITAMINS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "VITAMIN D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "198070",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160705",
+    "reactions": [
+      "MALAISE"
+    ],
+    "date_started": "20160413",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "CALBEE SNAP PEAS",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "195809",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20160428",
+    "reactions": [
+      "BLISTER",
+      "PRURITUS"
+    ],
+    "date_started": "20160409",
+    "consumer": {
+      "age": "27",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NUTRILITE WOMEN'S PACK - BALANCE HEALTH OMEGA",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "NUTRILITE'S WOMEN PACK - DAILY MULTIVITAMIN AND MULTIMINERAL",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "NUTRILITE WOMENS PACK - HAIR SKINS AND NAILS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "NUTRILITE WOMEN'S PACK - CAL MAG D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "195974",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160503",
+    "reactions": [
+      "PRESYNCOPE"
+    ],
+    "date_started": "20160419",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ONE A DAY WOMEN'S(MULTIVITAMINS+ MINERALS) FILM-COATED TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "195925",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20160426",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20160416",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NEPTUNA CHUNKY LIGHT TUNA WITH LEMON PEPPER IN OLIVE OIL",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "195904",
+    "outcomes": [
+      "Disability"
+    ],
+    "date_created": "20160502",
+    "reactions": [
+      "DIARRHOEA",
+      "HEADACHE",
+      "MUSCULOSKELETAL STIFFNESS",
+      "VOMITING"
+    ],
+    "date_started": "20160427",
+    "consumer": {
+      "age": "36",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FRESH EXPRESS ICEBERG GARDEN SALAD",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "196983",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160518",
+    "reactions": [
+      "BURNING SENSATION",
+      "FATIGUE",
+      "GAIT DISTURBANCE",
+      "PARAESTHESIA",
+      "PRURITUS"
+    ],
+    "date_started": "20160426",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WHOLE BLUE POPPY SEEDS",
+        "industry_code": "28",
+        "industry_name": "Spices, Flavors And Salts"
+      }
+    ]
+  }
+]

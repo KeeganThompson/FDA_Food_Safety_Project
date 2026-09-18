@@ -1,0 +1,2751 @@
+[
+  {
+    "report_number": "96138",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "BEDRIDDEN",
+      "DIARRHOEA",
+      "HAEMORRHOIDS",
+      "PAIN",
+      "URINARY TRACT INFECTION"
+    ],
+    "date_started": "20070114",
+    "consumer": {
+      "age": "45",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "95860",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070220",
+    "reactions": [
+      "ASTHENIA",
+      "FATIGUE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "3",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-016350",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220110",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070117",
+    "consumer": {
+      "age": "17",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-014833",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220106",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070105",
+    "consumer": {
+      "age": "26",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "96297",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN REDUCED FAT CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "211439",
+    "outcomes": [
+      "Death",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20170504",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20070202",
+    "consumer": {
+      "age": "51",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-000731",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210924",
+    "reactions": [
+      "Ovarian cancer",
+      "Uterine cancer"
+    ],
+    "date_started": "20070123",
+    "consumer": {
+      "age": "46",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "90719",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070112",
+    "reactions": [
+      "VOMITING"
+    ],
+    "date_started": "20070111",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WELCH'S GRAPE JUICE",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "90867",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070119",
+    "reactions": [
+      "ORAL DISCOMFORT",
+      "THROAT IRRITATION"
+    ],
+    "date_started": "20070111",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DOLE CELERY",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "COLD WATER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  },
+  {
+    "report_number": "97579",
+    "outcomes": [
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070425",
+    "reactions": [
+      "DIARRHOEA",
+      "GASTROINTESTINAL DISORDER",
+      "MALAISE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070123",
+    "consumer": {
+      "age": "77",
+      "age_unit": "year(s)"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2017-CFS-001873",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20170913",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "43",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "90796",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070119",
+    "reactions": [
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070113",
+    "consumer": {
+      "age": "42",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ORIGIN WOMEN'S MEGA MULTIVITAMIN AND MINERALS WITH HERBS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-001413",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20190212",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "48",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "90905",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070118",
+    "reactions": [
+      "EYE SWELLING",
+      "FACE OEDEMA",
+      "LOCALISED OEDEMA"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "age": "4",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WEETABIX ORGANIC CEREAL-REGULAR FLAVOR",
+        "industry_code": "05",
+        "industry_name": "Cereal Prep/Breakfast Food"
+      }
+    ]
+  },
+  {
+    "report_number": "95930",
+    "outcomes": [
+      "Hospitalization",
+      "Required Intervention",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070227",
+    "reactions": [
+      "Adverse event",
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "FEELING OF BODY TEMPERATURE CHANGE",
+      "HEADACHE",
+      "HYPOKALAEMIA",
+      "MALAISE",
+      "NAUSEA",
+      "RENAL FAILURE",
+      "RENAL IMPAIRMENT",
+      "UROGENITAL DISORDER",
+      "VOMITING"
+    ],
+    "date_started": "20070130",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GREAT VALUE CREAMY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91081",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20070205",
+    "reactions": [
+      "DRUG ERUPTION"
+    ],
+    "date_started": "20070120",
+    "consumer": {
+      "age": "39.03",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HERBALIFE SHAPEWORKS MULTIVITAMIN TABLET",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "91148",
+    "outcomes": [
+      "Hospitalization",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070208",
+    "reactions": [
+      "CULTURE STOOL POSITIVE",
+      "ESCHERICHIA BACTERAEMIA",
+      "HAEMATOCHEZIA"
+    ],
+    "date_started": "20070122",
+    "consumer": {
+      "age": "21",
+      "age_unit": "day(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMILAC HUMAN MILK FORTIFIER 1",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "91436",
+    "outcomes": [
+      "Required Intervention",
+      "Congenital Anomaly",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20070221",
+    "reactions": [
+      "ANGER",
+      "ANXIETY",
+      "CRYING",
+      "DEPRESSED MOOD",
+      "IRRITABILITY",
+      "PERSONALITY DISORDER",
+      "RESTLESSNESS",
+      "SCREAMING"
+    ],
+    "date_started": "20070123",
+    "consumer": {
+      "age": "365",
+      "age_unit": "day(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXPECTA VITAMIN SUPPLEMENT WITH DHA FOR PREGNANT AND BREASTFEEDING MOMS",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "98808",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070226",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070119",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91377",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070215",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070203",
+    "consumer": {
+      "age": "12",
+      "age_unit": "year(s)"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BEST FOODS SANDWICH SPREAD WITH RELISH",
+        "industry_code": "27",
+        "industry_name": "Dressing/Condiment"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-004265",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211116",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20070119",
+    "consumer": {
+      "age": "37",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "96388",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "FATIGUE",
+      "VOMITING"
+    ],
+    "date_started": "20070125",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91472",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070122",
+    "reactions": [
+      "CARDIAC FIBRILLATION",
+      "CHEST PAIN",
+      "HEART RATE ABNORMAL",
+      "HEART RATE IRREGULAR",
+      "INFLAMMATION",
+      "MALAISE",
+      "PALPITATIONS"
+    ],
+    "date_started": "20070116",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KIRKLAND SIGNATURE CHOCOLATE FLAVORED WEIGHT LOSS SHAKE",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-006266",
+    "outcomes": [
+      "Death",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210616",
+    "reactions": [
+      "Death",
+      "Fallopian tube cancer"
+    ],
+    "date_started": "20070105",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "91922",
+    "outcomes": [
+      "Required Intervention",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070306",
+    "reactions": [
+      "BACILLUS INFECTION",
+      "HAEMATOCHEZIA"
+    ],
+    "date_started": "20070124",
+    "consumer": {
+      "age": "21",
+      "age_unit": "day(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMILAC HUMAN MILK FORTIFIER 7",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-004959",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220928",
+    "reactions": [
+      "Death",
+      "Ovarian cancer"
+    ],
+    "date_started": "20070129",
+    "consumer": {
+      "age": "67",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "91849",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070220",
+    "reactions": [
+      "LETHARGY",
+      "VOMITING"
+    ],
+    "date_started": "20070126",
+    "consumer": {
+      "age": "4",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GREAT VALUE PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91924",
+    "outcomes": [
+      "Required Intervention",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070308",
+    "reactions": [
+      "BACILLUS INFECTION",
+      "HAEMATOCHEZIA"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "age": "55",
+      "age_unit": "day(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMILAC HUMAN MILK FORTIFIER",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-008410",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20190816",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "103709",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070119",
+    "reactions": [
+      "CYANOSIS",
+      "FLUSHING",
+      "FOOD ALLERGY",
+      "SKIN DISCOLOURATION"
+    ],
+    "date_started": "20070114",
+    "consumer": {},
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LUCKY DOLL TUNA, FROZEN CROYVAC",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "90620",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20070116",
+    "reactions": [
+      "ERYTHEMA",
+      "PYREXIA",
+      "SKIN INFECTION",
+      "SWELLING"
+    ],
+    "date_started": "20070105",
+    "consumer": {
+      "age": "5",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LABELLA STYLING GEL",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "121374",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070129",
+    "reactions": [
+      "ABDOMINAL PAIN UPPER",
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070121",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GIRL SCOUTS PEANUTS SQUARES",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "90888",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070126",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070121",
+    "consumer": {
+      "age": "74",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DOLE VERY VEGIE SALAD",
+        "industry_code": "25",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "90679",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070105",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070104",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "FRONTERA ORGANIC STONE GROUND BLUE TORTILLA CHIPS",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      }
+    ]
+  },
+  {
+    "report_number": "96060",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "CANDIDIASIS",
+      "GIARDIASIS"
+    ],
+    "date_started": "20070107",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CRUNCHY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "97899",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20071026",
+    "reactions": [
+      "DIARRHOEA"
+    ],
+    "date_started": "20070120",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DEL MONTE TROPICAL FRUIT SALAD",
+        "industry_code": "39",
+        "industry_name": "Prep Salad Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "90939",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20070130",
+    "reactions": [
+      "ABDOMINAL PAIN LOWER",
+      "HAEMATURIA",
+      "NEPHROLITHIASIS"
+    ],
+    "date_started": "20070114",
+    "consumer": {
+      "age": "63",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-003990",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211115",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20070122",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "96141",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "ABDOMINAL PAIN UPPER",
+      "GASTROENTERITIS VIRAL",
+      "HEADACHE"
+    ],
+    "date_started": "20070111",
+    "consumer": {
+      "age": "64",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "90953",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070125",
+    "reactions": [
+      "Adverse reaction",
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070114",
+    "consumer": {
+      "age": "60",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KIRKLAND SIGNATURE BRAND WHOLE FANCY CASHEWS",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91430",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070220",
+    "reactions": [
+      "BODY TEMPERATURE INCREASED",
+      "CANDIDIASIS",
+      "DIARRHOEA",
+      "EAR INFECTION",
+      "GINGIVAL SWELLING",
+      "HEADACHE",
+      "NAUSEA",
+      "SINUSITIS",
+      "SYSTEMIC LUPUS ERYTHEMATOSUS"
+    ],
+    "date_started": "20070116",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91358",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070215",
+    "reactions": [
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070203",
+    "consumer": {
+      "age": "73",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BEST FOODS SANDWICH SPREAD WITH RELISH",
+        "industry_code": "27",
+        "industry_name": "Dressing/Condiment"
+      }
+    ]
+  },
+  {
+    "report_number": "96437",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "BODY TEMPERATURE INCREASED",
+      "DIARRHOEA",
+      "VIRAL INFECTION",
+      "VOMITING"
+    ],
+    "date_started": "20070125",
+    "consumer": {
+      "age": "8",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PLUS PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "99271",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20071231",
+    "reactions": [
+      "CATARACT"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "age": "59",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "STOLLE MILK BIOLOGICS MICROLACTIN",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "91483",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20070125",
+    "reactions": [
+      "Blister",
+      "Crying",
+      "Vomiting"
+    ],
+    "date_started": "20070117",
+    "consumer": {
+      "age": "14",
+      "age_unit": "week(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ENFAMIL LIPIL WITH IRON (A BLEND OF DHA AND ARA) POWDERED INFANT FORMULA",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "91055",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070116",
+    "reactions": [
+      "BURNING SENSATION",
+      "HYPERSENSITIVITY"
+    ],
+    "date_started": "20070115",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ENCORE GOURMET CINNAMON SUGAR",
+        "industry_code": "36",
+        "industry_name": "Food Sweeteners (Nutritive)"
+      }
+    ]
+  },
+  {
+    "report_number": "90798",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20070119",
+    "reactions": [
+      "DIARRHOEA"
+    ],
+    "date_started": "20070116",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NORTHLAND CRANBERRY JUICE",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "91460",
+    "outcomes": [
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070212",
+    "reactions": [
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20070129",
+    "consumer": {
+      "age": "9",
+      "age_unit": "month(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "NESTLE GOOD START SUPREME WITH DHA AND ARA POWDER",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "90907",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070119",
+    "reactions": [
+      "DERMATITIS DIAPER",
+      "DIARRHOEA"
+    ],
+    "date_started": "20070115",
+    "consumer": {
+      "age": "18",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LUNDBERG FAMILY FARMS RICE CHIPS, SEA SALT FLAVOR",
+        "industry_code": "07",
+        "industry_name": "Snack Food Item"
+      },
+      {
+        "role": "CONCOMITANT",
+        "name_brand": "APPLES",
+        "industry_code": "20",
+        "industry_name": "Fruit/Fruit Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-000556",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20210110",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "65",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "91527",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20070223",
+    "reactions": [
+      "DIARRHOEA",
+      "VOMITING"
+    ],
+    "date_started": "20070117",
+    "consumer": {
+      "age": "18",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91111",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20070206",
+    "reactions": [
+      "CHOKING"
+    ],
+    "date_started": "20070130",
+    "consumer": {
+      "age": "78",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "98796",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070215",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "GASTROINTESTINAL DISORDER",
+      "VOMITING"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "103639",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070226",
+    "reactions": [
+      "BOTULISM",
+      "CHANGE OF BOWEL HABIT",
+      "DIARRHOEA"
+    ],
+    "date_started": "20070126",
+    "consumer": {
+      "age": "10",
+      "age_unit": "month(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "HAIN CELESTIAL, EARTH'S BEST ORGANIC STAGE 2 APPLE PEACH BARLEY WHOLESOME BREAKFAST",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "92175",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070314",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "HEADACHE",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070130",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER, CRUNCHY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER, HONEY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "92203",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070108",
+    "reactions": [
+      "DEHYDRATION"
+    ],
+    "date_started": "20070104",
+    "consumer": {
+      "age": "74",
+      "age_unit": "day(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PEDIALYTE ORAL ELECTROLYTE SOLUTION",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      }
+    ]
+  },
+  {
+    "report_number": "95106",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20070228",
+    "reactions": [
+      "ASTHENIA",
+      "BLOOD POTASSIUM DECREASED",
+      "BLOOD SODIUM DECREASED",
+      "BLOOD TEST ABNORMAL",
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "DIZZINESS",
+      "FATIGUE",
+      "GASTROINTESTINAL DISORDER",
+      "VOMITING"
+    ],
+    "date_started": "20070203",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "95089",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "CHILLS",
+      "DIARRHOEA",
+      "NAUSEA"
+    ],
+    "date_started": "20070202",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-001407",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20231105",
+    "reactions": [
+      "Death",
+      "Injury"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "66",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "SHOWER TO SHOWER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "95427",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070104",
+    "reactions": [
+      "ARTHRALGIA",
+      "BONE PAIN",
+      "DIZZINESS",
+      "DYSPEPSIA",
+      "HEADACHE",
+      "JOINT SWELLING",
+      "MUSCULOSKELETAL DISORDER",
+      "NAUSEA",
+      "PAIN"
+    ],
+    "date_started": "20070104",
+    "consumer": {
+      "age": "62",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GOODMAN TEA AND COFFEE COMPANY GROUND ROASTED COFFEE",
+        "industry_code": "31",
+        "industry_name": "Coffee/Tea"
+      }
+    ]
+  },
+  {
+    "report_number": "91744",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070112",
+    "reactions": [
+      "DEAFNESS",
+      "HYPERSENSITIVITY",
+      "PARAESTHESIA",
+      "RESPIRATORY DISTRESS",
+      "SALIVARY GLAND DISORDER",
+      "SALIVARY HYPERSECRETION",
+      "THROAT IRRITATION",
+      "TINNITUS",
+      "VISION BLURRED"
+    ],
+    "date_started": "20070111",
+    "consumer": {
+      "age": "10",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ELEGANT GOURMET SWEET WILLIAMS HAND DECORATED GINGERBREAD BOY COOKIE",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "91797",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070220",
+    "reactions": [
+      "DIARRHOEA",
+      "FEELING OF BODY TEMPERATURE CHANGE",
+      "LETHARGY",
+      "PYREXIA",
+      "VOMITING"
+    ],
+    "date_started": "20070126",
+    "consumer": {
+      "age": "3",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GREAT VALUE PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "95955",
+    "outcomes": [
+      "Hospitalization"
+    ],
+    "date_created": "20070226",
+    "reactions": [
+      "CONVULSION",
+      "DEHYDRATION",
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070114",
+    "consumer": {
+      "age": "18",
+      "age_unit": "month(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "GREAT VALUE CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91825",
+    "outcomes": [
+      "Required Intervention",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070226",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070123",
+    "consumer": {
+      "age": "82",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "96215",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070206",
+    "reactions": [
+      "ABDOMINAL PAIN UPPER",
+      "DIARRHOEA",
+      "Irritable bowel syndrome",
+      "MALAISE",
+      "NAUSEA"
+    ],
+    "date_started": "20070123",
+    "consumer": {
+      "age": "41",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LUCERNE DAIRY MILK",
+        "industry_code": "09",
+        "industry_name": "Milk/Butter/Dried Milk Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "92205",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070316",
+    "reactions": [
+      "DYSGEUSIA"
+    ],
+    "date_started": "20070123",
+    "consumer": {
+      "age": "67",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PAL LABORATOIES CALCIUM CITRATE WITH VITAMIN D",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "95885",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070222",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "FEELING OF BODY TEMPERATURE CHANGE",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER, CREAMY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "106368",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070706",
+    "reactions": [
+      "EYE IRRITATION",
+      "HYPERSENSITIVITY",
+      "URTICARIA"
+    ],
+    "date_started": "20070111",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KING HENRY'S ROASTED AND SALTED PEANUTS",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91920",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20070306",
+    "reactions": [
+      "ENTEROCOCCAL INFECTION",
+      "HAEMATOCHEZIA"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "age": "22",
+      "age_unit": "day(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMILAC HUMAN MILK FORTIFIER",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "92920",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070129",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070127",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "LITTLE DEBBIE SNACKS OATMEAL CREAM PIE",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "92099",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070315",
+    "reactions": [
+      "BLISTER"
+    ],
+    "date_started": "20070117",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "POPSICLE ORANGE, CHERRY, AND GRAPE FROZEN POPS WITH FRUIT JUICE AND VITAMIN C",
+        "industry_code": "13",
+        "industry_name": "Ice Cream Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "91486",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070215",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE"
+    ],
+    "date_started": "20070203",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PC GOLDEN CHOCOLATE POPPY SEED ROULETTE",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "92183",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070312",
+    "reactions": [
+      "DIARRHOEA",
+      "MALAISE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070128",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CRUNCHY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "91662",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070112",
+    "reactions": [
+      "DEAFNESS",
+      "HYPERSENSITIVITY",
+      "PARAESTHESIA",
+      "RESPIRATORY DISTRESS",
+      "SALIVARY GLAND DISORDER",
+      "SALIVARY HYPERSECRETION",
+      "THROAT IRRITATION",
+      "TINNITUS",
+      "VISION BLURRED"
+    ],
+    "date_started": "20070111",
+    "consumer": {
+      "age": "12",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ELEGANT GOURMET SWEET WILLIAMS HAND DECORATED GINGERBREAD BOY COOKIE",
+        "industry_code": "03",
+        "industry_name": "Bakery Prod/Dough/Mix/Icing"
+      }
+    ]
+  },
+  {
+    "report_number": "95864",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20070220",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "ABDOMINAL PAIN UPPER",
+      "BODY TEMPERATURE INCREASED",
+      "DIARRHOEA",
+      "FEELING OF BODY TEMPERATURE CHANGE",
+      "HEADACHE",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070129",
+    "consumer": {
+      "age": "8",
+      "age_unit": "year(s)"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER REDUCED FAT CREAMY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-001660",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220131",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070202",
+    "consumer": {
+      "age": "51",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "96374",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070216",
+    "reactions": [
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "4",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-011931",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20201120",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070119",
+    "consumer": {
+      "age": "27",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "90720",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070116",
+    "reactions": [
+      "ANXIETY",
+      "INSOMNIA",
+      "MOOD ALTERED",
+      "PSYCHOMOTOR HYPERACTIVITY",
+      "RASH PAPULAR"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "7-DAY MARKET PARASINE PARASITE CLEANSER",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2024-CFS-001241",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20231103",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070122",
+    "consumer": {
+      "age": "68",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2019-CFS-003399",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20190327",
+    "reactions": [
+      "Death",
+      "Injury",
+      "Ovarian cancer"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "age": "57",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "91664",
+    "outcomes": [
+      "Life Threatening",
+      "Required Intervention",
+      "Visited Emergency Room"
+    ],
+    "date_created": "20070117",
+    "reactions": [
+      "ANAPHYLACTIC REACTION",
+      "HYPERSENSITIVITY"
+    ],
+    "date_started": "20070108",
+    "consumer": {
+      "age": "19",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JAY ROBB'S EGG WHITE PROTEIN POWDER - VANILLA",
+        "industry_code": "41",
+        "industry_name": "Dietary Conventional Foods/Meal Replacements"
+      }
+    ]
+  },
+  {
+    "report_number": "98804",
+    "outcomes": [
+      "Hospitalization",
+      "Visited Emergency Room",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070222",
+    "reactions": [
+      "GASTROENTERITIS SALMONELLA"
+    ],
+    "date_started": "20070129",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PLUS CREAMY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2018-CFS-002743",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20170628",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "171500",
+    "outcomes": [
+      "Life Threatening",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070713",
+    "reactions": [
+      "BLOOD LEAD INCREASED",
+      "Metal poisoning"
+    ],
+    "date_started": "20070120",
+    "consumer": {
+      "age": "3",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "KELLOGG'S CERAMIC WARE",
+        "industry_code": "52",
+        "industry_name": "Miscellaneous Food Related Items"
+      }
+    ]
+  },
+  {
+    "report_number": "90902",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070110",
+    "reactions": [
+      "MALAISE",
+      "NAUSEA",
+      "VOMITING"
+    ],
+    "date_started": "20070107",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "O ORGANIC BABY SPINACH",
+        "industry_code": "24",
+        "industry_name": "Vegetables/Vegetable Products"
+      }
+    ]
+  },
+  {
+    "report_number": "182559",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20150127",
+    "reactions": [
+      "OVARIAN CANCER"
+    ],
+    "date_started": "20070128",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-007082",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230314",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20070124",
+    "consumer": {
+      "age": "46",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "91921",
+    "outcomes": [
+      "Required Intervention"
+    ],
+    "date_created": "20070308",
+    "reactions": [
+      "BACTERIAL INFECTION",
+      "HAEMATOCHEZIA"
+    ],
+    "date_started": "20070112",
+    "consumer": {
+      "age": "15",
+      "age_unit": "day(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "SIMILAC HUMAN MILK FORTIFIER 7",
+        "industry_code": "40",
+        "industry_name": "Baby Food Products"
+      }
+    ]
+  },
+  {
+    "report_number": "91321",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event",
+      "Visited Emergency Room",
+      "Other Serious Outcome"
+    ],
+    "date_created": "20070215",
+    "reactions": [
+      "ABDOMINAL PAIN UPPER",
+      "DYSPEPSIA",
+      "GASTROINTESTINAL DISORDER",
+      "GASTROINTESTINAL PAIN",
+      "NONSPECIFIC REACTION",
+      "STOMACH DISCOMFORT"
+    ],
+    "date_started": "20070122",
+    "consumer": {
+      "age": "76",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "95925",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070223",
+    "reactions": [
+      "ABDOMINAL DISCOMFORT",
+      "ANAEMIA",
+      "CARDIAC FAILURE",
+      "CARDIOVASCULAR DISORDER",
+      "DIARRHOEA",
+      "DIZZINESS",
+      "Death",
+      "FALL",
+      "HIP FRACTURE",
+      "MALAISE",
+      "MUSCULOSKELETAL DISORDER",
+      "MYOCARDIAL INFARCTION",
+      "PNEUMONIA",
+      "RESPIRATORY DISORDER"
+    ],
+    "date_started": "20070104",
+    "consumer": {
+      "age": "86",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN CREAMY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "199377",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20160729",
+    "reactions": [
+      "ALOPECIA"
+    ],
+    "date_started": "20070105",
+    "consumer": {
+      "age": "40",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "WEN ALMOND MINT",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "92340",
+    "outcomes": [
+      "Death",
+      "Life Threatening",
+      "Hospitalization"
+    ],
+    "date_created": "20070329",
+    "reactions": [
+      "ABDOMINAL PAIN",
+      "DIARRHOEA",
+      "Death",
+      "ENTEROCOLITIS",
+      "NAUSEA",
+      "NECROSIS",
+      "NECROTISING COLITIS",
+      "VOMITING"
+    ],
+    "date_started": "20070119",
+    "consumer": {
+      "age": "51.76",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DMD PHARMACEUTICALS EPHRINE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-001061",
+    "outcomes": [
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20220121",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20070124",
+    "consumer": {
+      "age": "54",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2020-CFS-006042",
+    "outcomes": [
+      "Death"
+    ],
+    "date_created": "20200616",
+    "reactions": [
+      "Death",
+      "Ovarian disorder"
+    ],
+    "date_started": "20070201",
+    "consumer": {
+      "age": "53",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "91397",
+    "outcomes": [
+      "Hospitalization",
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20070220",
+    "reactions": [
+      "MALAISE"
+    ],
+    "date_started": "20070115",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN PEANUT BUTTER, CREAMY",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  },
+  {
+    "report_number": "2023-CFS-009854",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20230911",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20070105",
+    "consumer": {
+      "age": "32",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "JOHNSONS POWDER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "SHOWER TO SHOWER NO UPC",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2022-CFS-002935",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20211112",
+    "reactions": [
+      "Ovarian cancer stage I"
+    ],
+    "date_started": "20070119",
+    "consumer": {
+      "age": "44",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "90427",
+    "outcomes": [
+      "Life Threatening",
+      "Hospitalization"
+    ],
+    "date_created": "20070108",
+    "reactions": [
+      "BLOOD CREATININE INCREASED",
+      "CARBON DIOXIDE ABNORMAL",
+      "DIABETIC KETOACIDOSIS",
+      "RENAL FAILURE ACUTE"
+    ],
+    "date_started": "20070106",
+    "consumer": {
+      "age": "55",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "ISAGENIX CLEANSE FOR LIFE",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "97500",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20070305",
+    "reactions": [
+      "DIARRHOEA",
+      "FLATULENCE",
+      "GASTROINTESTINAL DISORDER",
+      "MALAISE",
+      "VOMITING"
+    ],
+    "date_started": "20070120",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PETER PAN REDUCED FAT CRUNCHY PEANUT BUTTER",
+        "industry_code": "23",
+        "industry_name": "Nuts/Edible Seed"
+      }
+    ]
+  }
+]

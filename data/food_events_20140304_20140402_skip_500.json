@@ -1,0 +1,127 @@
+[
+  {
+    "report_number": "176191",
+    "outcomes": [
+      "Life Threatening"
+    ],
+    "date_created": "20140430",
+    "reactions": [
+      "HYPERSENSITIVITY",
+      "OROPHARYNGEAL SWELLING",
+      "URTICARIA"
+    ],
+    "date_started": "20140401",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "IONIX SUPREME",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "181693",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20141230",
+    "reactions": [
+      "CHEILITIS"
+    ],
+    "date_started": "20140304",
+    "consumer": {
+      "age": "34",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EOS CHAPSTICK",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "175922",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20140421",
+    "reactions": [
+      "CHOKING"
+    ],
+    "date_started": "20140402",
+    "consumer": {
+      "age": "74",
+      "age_unit": "year(s)",
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "BANNER PHARMACAPS TRIPLE STRENGTH FISH OIL CAPSULES 1400 MG",
+        "industry_code": "54",
+        "industry_name": "Vit/Min/Prot/Unconv Diet(Human/Animal)"
+      }
+    ]
+  },
+  {
+    "report_number": "2017-CFS-001916",
+    "outcomes": [
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20160916",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20140401",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "176017",
+    "outcomes": [
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20140418",
+    "reactions": [
+      "ABSCESS",
+      "ASTHENIA",
+      "LETHARGY",
+      "RASH PAPULAR"
+    ],
+    "date_started": "20140312",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DOGUETS MEDIUM GRAIN RICE",
+        "industry_code": "02",
+        "industry_name": "Whole Grain/Milled Grain Prod/Starch"
+      }
+    ]
+  }
+]

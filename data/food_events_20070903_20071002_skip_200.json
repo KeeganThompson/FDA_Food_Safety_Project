@@ -1,0 +1,140 @@
+[
+  {
+    "report_number": "105487",
+    "outcomes": [
+      "Required Intervention",
+      "Disability",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20080813",
+    "reactions": [
+      "EYE DISCHARGE",
+      "SKIN DISORDER"
+    ],
+    "date_started": "20070924",
+    "consumer": {
+      "age": "53",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "PREMIER PIGMENTS PERMANENT EYE MAKE UP-DARK UMBER BEAUTIFUL BLACK TATTOO",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "96171",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070906",
+    "reactions": [
+      "FLUSHING",
+      "HEADACHE",
+      "MALAISE",
+      "RASH",
+      "SKIN DISORDER"
+    ],
+    "date_started": "20070905",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "OCEAN BEAUTY SEAFOODS FRESH, WILD ESOLAR FILLETS",
+        "industry_code": "16",
+        "industry_name": "Fishery/Seafood Prod"
+      }
+    ]
+  },
+  {
+    "report_number": "210547",
+    "outcomes": [
+      "Other Serious or Important Medical Event",
+      "Visited a Health Care Provider"
+    ],
+    "date_created": "20170417",
+    "reactions": [
+      "Ovarian cancer"
+    ],
+    "date_started": "20070911",
+    "consumer": {
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "2021-CFS-001932",
+    "outcomes": [
+      "Death",
+      "Hospitalization",
+      "Other Serious or Important Medical Event"
+    ],
+    "date_created": "20210226",
+    "reactions": [
+      "Death",
+      "Ovarian cancer stage III"
+    ],
+    "date_started": "20070911",
+    "consumer": {
+      "age": "52",
+      "age_unit": "year(s)",
+      "gender": "Female"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      },
+      {
+        "role": "SUSPECT",
+        "name_brand": "EXEMPTION 4",
+        "industry_code": "53",
+        "industry_name": "Cosmetics"
+      }
+    ]
+  },
+  {
+    "report_number": "96330",
+    "outcomes": [
+      "Other Outcome"
+    ],
+    "date_created": "20070907",
+    "reactions": [
+      "DIARRHOEA",
+      "FLATULENCE"
+    ],
+    "date_started": "20070907",
+    "consumer": {
+      "gender": "Male"
+    },
+    "products": [
+      {
+        "role": "SUSPECT",
+        "name_brand": "DISTILLA DISTILLED WATER",
+        "industry_code": "29",
+        "industry_name": "Soft Drink/Water"
+      }
+    ]
+  }
+]
