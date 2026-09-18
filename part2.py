@@ -1,11 +1,12 @@
 import sys
 import re
-from datetime import datetime
 import os
 import glob
-from collections import Counter
 import json
-
+import numpy as np
+import matplotlib.pyplot as plt
+from collections import Counter
+from datetime import datetime
 DATA_DIR = './data'
 
 def process_data():
@@ -33,7 +34,7 @@ def process_data():
     for filepath in files:
         with open(filepath, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            records = data['results']
+            records = data if isinstance(data, list) else data.get('results', [])
             for record in records:
                 year = int(record['date_started'][:4])
                 if not (start_year <= year <= end_year):
@@ -91,6 +92,73 @@ def process_data():
     }
 
 
+# out and vis
+CHARTS_DIR = './charts'
+
+def output_and_visualize(data_dict, start_year, end_year, product_filter):
+    if data_dict["count"] == 0:
+        print("No records matched")
+        sys.exit(0)
+
+    print(f"\nTotal Matching Records: {data_dict['count']:,}\n")
+
+    avg_total = np.mean(data_dict["ages"]) if data_dict["ages"] else 0
+    avg_female = np.mean(data_dict["ages_f"]) if data_dict["ages_f"] else 0
+    avg_male = np.mean(data_dict["ages_m"]) if data_dict["ages_m"] else 0
+
+    print(f"Average Age (Total):  {avg_total:.1f} years")
+    print(f"Average Age (Female): {avg_female:.1f} years")
+    print(f"Average Age (Male):   {avg_male:.1f} years\n")
+
+    print(" TOP 25 OUTCOMES ")
+    for term, count in data_dict["outcomes"].most_common(25):
+        print(f"  {count:<6} {term}")
+
+    print("\n TOP 25 REACTIONS ")
+    for term, count in data_dict["reactions"].most_common(25):
+        print(f"  {count:<6} {term}")
+
+    print("\n TOP 25 SUSPECT PRODUCTS ")
+    for term, count in data_dict["products"].most_common(25):
+        print(f"  {count:<6} {term}")
+
+    # Vis
+    if not os.path.exists(CHARTS_DIR):
+        os.makedirs(CHARTS_DIR)
+
+    # 1x2 chart layout
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
+    filter_text = product_filter if product_filter else 'All Products'
+    fig.suptitle(f"FDA Adverse Events Analysis\n({start_year}-{end_year}) - {filter_text}", fontsize=14)
+
+    # Plot 1 -- Total Cases by Year
+    if data_dict["yearly_counts"]:
+        years, counts = zip(*sorted(data_dict["yearly_counts"].items()))
+        ax1.bar(years, counts, color='steelblue', edgecolor='black')
+        ax1.set_title("Total Cases By Year")
+        ax1.set_xlabel("Year")
+        ax1.set_ylabel("Number Of Cases")
+        ax1.set_xticks(years)
+        ax1.tick_params(axis='x', rotation = 45)
+
+    # Plot 2: Histogram of Consumer Ages
+    if data_dict["ages"]:
+        # every age year in dataset
+        ax2.hist(data_dict["ages"], bins=range(0, 122, 1), color='salmon', edgecolor='black', alpha=0.7)
+        ax2.set_title("Distribution of Consumer Ages")
+        ax2.set_xlabel("Age (Years)")
+        ax2.set_ylabel("Frequency")
+    else:
+        ax2.text(0.5, 0.5, 'No Age Data Available', ha='center', va='center')
+
+    plt.tight_layout()
+    timestamp = datetime.now().strftime('%Y%m%d_%H%H%S')
+    chart_path = os.path.join(CHARTS_DIR, f"{timestamp}.png")
+    plt.savefig(chart_path)
+
+    print("Visualization saved to {chart_path}")
+
+
 # flexible CLI arguments, 4-dig years for range and rest into product filter
 def parse_arguments():
     # command line args, skip part2.py
@@ -133,12 +201,34 @@ def clean_text(text):
     # Collapse mult spaces
     text = re.sub(r'\s+', ' ', text)
 
-    # Probable Dupes
+    # Dupe Handling
+    text = re.sub(r'\bDIARRHOEA\b', 'DIARRHEA', text)
+    text = re.sub(r'\bHAEMORRHAGE\b', 'HEMORRHAGE', text)
+    text = re.sub(r'\bABDOMINAL PAIN UPPER\b', 'ABDOMINAL PAIN', text)
+    text = re.sub(r'\bABDOMINAL PAIN LOWER\b', 'ABDOMINAL PAIN', text)
     text = re.sub(r'\bVITAMIN D3\b', 'VITAMIN D', text)
     text = re.sub(r'\bVITAMINS\b', 'VITAMIN', text)
     text = re.sub(r'\bMULTIVITAMINS\b', 'MULTIVITAMIN', text)
     text = re.sub(r'\bMULTI VITAMIN\b', 'MULTIVITAMIN', text)
     text = re.sub(r'\bOMEGA 3\b', 'OMEGA3', text)
+    text = re.sub(r'JIF.*?PEANUT BUTTER', 'JIF PEANUT BUTTER', text)
+    text = re.sub(r'PETER PAN.*?PEANUT BUTTER', 'PETER PAN PEANUT BUTTER', text)
+    if text.startswith('OVARIAN CANCER'):
+                return 'OVARIAN CANCER'
+    if text.startswith('PRESERVISION AREDS 2'):
+        return 'PRESERVISION AREDS 2'
+    if text.startswith('HYDROXYCUT'):
+        return 'HYDROXYCUT'
+    if text.startswith('SUPER BETA PROSTATE'):
+        return 'SUPER BETA PROSTATE'
+    if text.startswith('WEN '):
+        return 'WEN'
+    if text.startswith('CENTRUM SILVER WOMEN'):
+        return 'CENTRUM SILVER WOMEN S 50'
+    if text == 'RAW OYSTERS':
+        return 'OYSTERS'
+    if text.startswith('DEVACURL'):
+        return 'DEVACURL'
     return text.strip()
 
 # fractional age
@@ -146,6 +236,10 @@ def parse_age(age_val, unit):
     try:
         val = float(age_val)
         unit = str(unit).lower()
+
+        # filter out missing unites or 0 years exact
+        if val == 0 and ('year' in unit or not unit or unit == 'none'):
+            return None
 
         if 'year' in unit: return val
         if 'month' in unit: return val / 12
@@ -155,18 +249,18 @@ def parse_age(age_val, unit):
 
         # if blank but num 0-120, probably years
         if not unit or unit == 'none':
-            if 0 <= val <= 120:
+            if 0 < val <= 120:
                 return val
         return None
     except (ValueError, TypeError):
         return None
 
 if __name__ == "__main__":
-    print("--- Text Cleaning Test ---")
-    print(f"Raw: '  Vitamin   D3, (liquid) ' -> Cleaned: '{clean_text('  Vitamin   D3, (liquid) ')}'")
-    print(f"Raw: 'ICE-CREAM!!!' -> Cleaned: '{clean_text('ICE-CREAM!!!')}'")
+    # 1. Parse user inputs
+    start_y, end_y, prod_filter = parse_arguments()
     
-    print("\n--- Age Parsing Test ---")
-    print(f"18 Year(s) -> {parse_age('18', 'Year(s)')} years")
-    print(f"6 Month(s) -> {parse_age('6', 'Month(s)')} years")
-    print(f"900 Day(s) -> {parse_age('900', 'Day(s)'):.2f} years")
+    # 2. Extract and count data (Step 3)
+    results_dict = process_data()
+    
+    # 3. Output stats and charts (Step 4)
+    output_and_visualize(results_dict, start_y, end_y, prod_filter)
