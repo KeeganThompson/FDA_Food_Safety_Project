@@ -1,3 +1,48 @@
+const fs = require('fs');
+const path = require('path');
+
+const START_DATE = '2002-01-01';
+const END_DATE = '2026-01-01';
+const LIMIT_PER_REQUEST = 100;
+const DATA_DIR = path.join(__dirname, 'data');
+
+if (!fs.existsSync(DATA_DIR)) {
+    fs.mkdirSync(DATA_DIR, {recursive: true}); 
+}
+
+// array of YYYYMMDD chunks bc FDA has limit of skipping past 25000 records 
+function getMonthlyChunks (start, end) {
+    const chunks = [];
+    let current = new Date(start);
+    const endDate = new Date(end);
+
+    while (current <= endDate) {
+        const chunkStart = new Date(current);
+        const nextMonth = new Date(current);
+        nextMonth.setMonth(nextMonth.getMonth() + 1);
+        
+        let chunkEnd = new Date(nextMonth);
+        chunkEnd.setDate(chunkEnd.getDate() - 1);
+
+        if (chunkEnd > endDate) {
+            chunkEnd = new Date(endDate);
+        }
+
+        // Change to YYYYMMDD
+        const format = (d) => d.toISOString().split('T')[0].replace(/-/g, '');
+
+        chunks.push({
+            start: format(chunkStart),
+            end: format(chunkEnd)
+        });
+        
+        current = nextMonth;
+    }
+
+    return chunks;
+}
+
+
 // backoff to handle 429 error and skip range for 404 error
 async function fetchWithRetry(url, retries = 5, backoffs = 2000) {
     for (let i = 0; i < retries; i++) {
