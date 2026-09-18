@@ -10,6 +10,29 @@ if (!fs.existsSync(DATA_DIR)) {
     fs.mkdirSync(DATA_DIR, {recursive: true}); 
 }
 
+// Process array of tasks with concurrency limit
+async function processQueue(tasks, concurrencyLimit, processor) {
+    let currentIndex = 0;
+
+    const worker = async (workerId) => {
+        while (currentIndex < tasks.length) {
+            const taskIndex = currentIndex++;
+            const task = tasks[taskIndex];
+            // wait for curr task before getting next
+            await processor(task, workerId);
+        }
+    }
+
+    // concurrencyLimit number of workers
+    const workers = [];
+    for (let i = 0; i < concurrencyLimit; i++) {
+        workers.push(worker(i));
+    }
+
+    await Promise.all(workers);
+}
+
+
 // array of YYYYMMDD chunks bc FDA has limit of skipping past 25000 records 
 function getMonthlyChunks (start, end) {
     const chunks = [];
